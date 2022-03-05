@@ -31,11 +31,10 @@
 |5|**33.15**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-toshi00.herokuapp.com/)|
 |6|**32.40**|<img alt="" width="50" height="50" src="https://github.com/cathiecode.png?size=100"/>|[@cathiecode](https://github.com/cathiecode)|[:link:](https://wsh-2022-cathiecode.herokuapp.com/)|
 |7|**32.25**|<img alt="" width="50" height="50" src="https://github.com/season1618.png?size=100"/>|[@season1618](https://github.com/season1618)|[:link:](https://web-speed-hackathon-season.herokuapp.com/)|
-|8|**30.30**|<img alt="" width="50" height="50" src="https://github.com/reyu0722.png?size=100"/>|[@reyu0722](https://github.com/reyu0722)|[:link:](https://reyu-wsh2022.herokuapp.com/)|
-|9|**29.70**|<img alt="" width="50" height="50" src="https://github.com/Kazuki0626.png?size=100"/>|[@Kazuki0626](https://github.com/Kazuki0626)|[:link:](https://kazuki-iwasaki.herokuapp.com/)|
-|10|**29.55**|<img alt="" width="50" height="50" src="https://github.com/onikun94.png?size=100"/>|[@onikun94](https://github.com/onikun94)|[:link:](https://web-speed-hackthon-2022-onikun.herokuapp.com/)|
-|10|**29.55**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
-|10|**29.55**|<img alt="" width="50" height="50" src="https://github.com/akakiyo.png?size=100"/>|[@akakiyo](https://github.com/akakiyo)|[:link:](https://web-speed-hackathon-2022-kiyo.herokuapp.com/)|
+|8|**29.70**|<img alt="" width="50" height="50" src="https://github.com/Kazuki0626.png?size=100"/>|[@Kazuki0626](https://github.com/Kazuki0626)|[:link:](https://kazuki-iwasaki.herokuapp.com/)|
+|9|**29.55**|<img alt="" width="50" height="50" src="https://github.com/onikun94.png?size=100"/>|[@onikun94](https://github.com/onikun94)|[:link:](https://web-speed-hackthon-2022-onikun.herokuapp.com/)|
+|9|**29.55**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
+|9|**29.55**|<img alt="" width="50" height="50" src="https://github.com/akakiyo.png?size=100"/>|[@akakiyo](https://github.com/akakiyo)|[:link:](https://web-speed-hackathon-2022-kiyo.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
