@@ -33,7 +33,7 @@
 |7|**112.15**|<img alt="" width="50" height="50" src="https://github.com/trasta298.png?size=100"/>|[@trasta298](https://github.com/trasta298)|[:link:](https://wsh.trasta.dev/)|
 |8|**89.40**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://web-hack-2022-maruyama.herokuapp.com/)|
 |9|**81.90**|<img alt="" width="50" height="50" src="https://github.com/Alesion30.png?size=100"/>|[@Alesion30](https://github.com/Alesion30)|[:link:](https://wsh2022-alesion30.herokuapp.com/)|
-|10|**81.35**|<img alt="" width="50" height="50" src="https://github.com/cathiecode.png?size=100"/>|[@cathiecode](https://github.com/cathiecode)|[:link:](https://wsh-2022-cathiecode.herokuapp.com/)|
+|10|**80.35**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
