@@ -33,7 +33,7 @@
 |7|**28.65**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-toshi00.herokuapp.com/)|
 |8|**28.20**|<img alt="" width="50" height="50" src="https://github.com/reyu0722.png?size=100"/>|[@reyu0722](https://github.com/reyu0722)|[:link:](https://reyu-wsh2022.herokuapp.com/)|
 |8|**28.20**|<img alt="" width="50" height="50" src="https://github.com/fujiyamaorange.png?size=100"/>|[@fujiyamaorange](https://github.com/fujiyamaorange)|[:link:](https://web-speed-hachathon2022.herokuapp.com/)|
-|10|**27.30**|<img alt="" width="50" height="50" src="https://github.com/yud0uhu.png?size=100"/>|[@yud0uhu](https://github.com/yud0uhu)|[:link:](https://wsh-2022-yud0uhu.herokuapp.com/)|
+|10|**27.60**|<img alt="" width="50" height="50" src="https://github.com/LilyMameoka.png?size=100"/>|[@LilyMameoka](https://github.com/LilyMameoka)|[:link:](https://web-speed-hackathon-2022-suto.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
