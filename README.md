@@ -30,10 +30,10 @@
 |4|**74.55**|<img alt="" width="50" height="50" src="https://github.com/mazrean.png?size=100"/>|[@mazrean](https://github.com/mazrean)|[:link:](https://wsh2022.mazrean.com/)|
 |5|**59.60**|<img alt="" width="50" height="50" src="https://github.com/yamanoi-shu.png?size=100"/>|[@yamanoi-shu](https://github.com/yamanoi-shu)|[:link:](https://speedhackathon2022-yamanoi.herokuapp.com/)|
 |6|**56.95**|<img alt="" width="50" height="50" src="https://github.com/Teasegasugoi.png?size=100"/>|[@Teasegasugoi](https://github.com/Teasegasugoi)|[:link:](https://web-speed-hackathon-2022-tease.herokuapp.com/)|
-|7|**46.85**|<img alt="" width="50" height="50" src="https://github.com/cathiecode.png?size=100"/>|[@cathiecode](https://github.com/cathiecode)|[:link:](https://wsh-2022-cathiecode.herokuapp.com/)|
-|8|**45.30**|<img alt="" width="50" height="50" src="https://github.com/1keiuu.png?size=100"/>|[@1keiuu](https://github.com/1keiuu)|[:link:](https://web-speed-hackathon2022.herokuapp.com/)|
-|9|**42.30**|<img alt="" width="50" height="50" src="https://github.com/yud0uhu.png?size=100"/>|[@yud0uhu](https://github.com/yud0uhu)|[:link:](https://wsh-2022-yud0uhu.herokuapp.com/)|
-|10|**36.90**|<img alt="" width="50" height="50" src="https://github.com/hijiki51.png?size=100"/>|[@hijiki51](https://github.com/hijiki51)|[:link:](https://webspeedhackathon2022-hijiki51.herokuapp.com/)|
+|7|**55.50**|<img alt="" width="50" height="50" src="https://github.com/fluixyz-unnatural.png?size=100"/>|[@fluixyz-unnatural](https://github.com/fluixyz-unnatural)|[:link:](https://fluixyz-web-hackathon-2022.herokuapp.com/)|
+|8|**46.85**|<img alt="" width="50" height="50" src="https://github.com/cathiecode.png?size=100"/>|[@cathiecode](https://github.com/cathiecode)|[:link:](https://wsh-2022-cathiecode.herokuapp.com/)|
+|9|**45.30**|<img alt="" width="50" height="50" src="https://github.com/1keiuu.png?size=100"/>|[@1keiuu](https://github.com/1keiuu)|[:link:](https://web-speed-hackathon2022.herokuapp.com/)|
+|10|**42.30**|<img alt="" width="50" height="50" src="https://github.com/yud0uhu.png?size=100"/>|[@yud0uhu](https://github.com/yud0uhu)|[:link:](https://wsh-2022-yud0uhu.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
