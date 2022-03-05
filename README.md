@@ -29,7 +29,8 @@
 |3|**28.65**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-toshi00.herokuapp.com/)|
 |4|**25.95**|<img alt="" width="50" height="50" src="https://github.com/akakiyo.png?size=100"/>|[@akakiyo](https://github.com/akakiyo)|[:link:](https://web-speed-hackathon-2022-kiyo.herokuapp.com/)|
 |5|**25.05**|<img alt="" width="50" height="50" src="https://github.com/takumma.png?size=100"/>|[@takumma](https://github.com/takumma)|[:link:](https://web-speedup-hackason-2022.herokuapp.com/)|
-|6|**19.95**|<img alt="" width="50" height="50" src="https://github.com/mehm8128.png?size=100"/>|[@mehm8128](https://github.com/mehm8128)|[:link:](https://web-speed-hackathon-2022-mehm.herokuapp.com/)|
+|6|**24.30**|<img alt="" width="50" height="50" src="https://github.com/Ras96.png?size=100"/>|[@Ras96](https://github.com/Ras96)|[:link:](https://ras96-webspeedhackathon2022.herokuapp.com/)|
+|7|**19.95**|<img alt="" width="50" height="50" src="https://github.com/mehm8128.png?size=100"/>|[@mehm8128](https://github.com/mehm8128)|[:link:](https://web-speed-hackathon-2022-mehm.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
