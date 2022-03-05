@@ -24,16 +24,16 @@
 
 |Rank|Score||CompetitorId|URL|
 |:--:|:--:|:--:|:--|:--:|
-|1|**31.20**|<img alt="" width="50" height="50" src="https://github.com/1keiuu.png?size=100"/>|[@1keiuu](https://github.com/1keiuu)|[:link:](https://web-speed-hackathon2022.herokuapp.com/)|
-|2|**30.75**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://web-hack-2022-maruyama.herokuapp.com/)|
-|3|**29.55**|<img alt="" width="50" height="50" src="https://github.com/onikun94.png?size=100"/>|[@onikun94](https://github.com/onikun94)|[:link:](https://web-speed-hackthon-2022-onikun.herokuapp.com/)|
-|4|**28.65**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-toshi00.herokuapp.com/)|
-|5|**28.20**|<img alt="" width="50" height="50" src="https://github.com/reyu0722.png?size=100"/>|[@reyu0722](https://github.com/reyu0722)|[:link:](https://reyu-wsh2022.herokuapp.com/)|
-|6|**27.30**|<img alt="" width="50" height="50" src="https://github.com/yud0uhu.png?size=100"/>|[@yud0uhu](https://github.com/yud0uhu)|[:link:](https://wsh-2022-yud0uhu.herokuapp.com/)|
-|7|**25.95**|<img alt="" width="50" height="50" src="https://github.com/akakiyo.png?size=100"/>|[@akakiyo](https://github.com/akakiyo)|[:link:](https://web-speed-hackathon-2022-kiyo.herokuapp.com/)|
-|8|**25.50**|<img alt="" width="50" height="50" src="https://github.com/higuchimmy.png?size=100"/>|[@higuchimmy](https://github.com/higuchimmy)|[:link:](https://higuchimmy-web-speed-hackathon.herokuapp.com/)|
-|9|**25.05**|<img alt="" width="50" height="50" src="https://github.com/takumma.png?size=100"/>|[@takumma](https://github.com/takumma)|[:link:](https://web-speedup-hackason-2022.herokuapp.com/)|
-|10|**24.30**|<img alt="" width="50" height="50" src="https://github.com/Ras96.png?size=100"/>|[@Ras96](https://github.com/Ras96)|[:link:](https://ras96-webspeedhackathon2022.herokuapp.com/)|
+|1|**32.25**|<img alt="" width="50" height="50" src="https://github.com/season1618.png?size=100"/>|[@season1618](https://github.com/season1618)|[:link:](https://web-speed-hackathon-season.herokuapp.com/)|
+|2|**31.20**|<img alt="" width="50" height="50" src="https://github.com/1keiuu.png?size=100"/>|[@1keiuu](https://github.com/1keiuu)|[:link:](https://web-speed-hackathon2022.herokuapp.com/)|
+|3|**30.75**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://web-hack-2022-maruyama.herokuapp.com/)|
+|4|**29.55**|<img alt="" width="50" height="50" src="https://github.com/onikun94.png?size=100"/>|[@onikun94](https://github.com/onikun94)|[:link:](https://web-speed-hackthon-2022-onikun.herokuapp.com/)|
+|5|**28.65**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-toshi00.herokuapp.com/)|
+|6|**28.20**|<img alt="" width="50" height="50" src="https://github.com/reyu0722.png?size=100"/>|[@reyu0722](https://github.com/reyu0722)|[:link:](https://reyu-wsh2022.herokuapp.com/)|
+|7|**27.30**|<img alt="" width="50" height="50" src="https://github.com/yud0uhu.png?size=100"/>|[@yud0uhu](https://github.com/yud0uhu)|[:link:](https://wsh-2022-yud0uhu.herokuapp.com/)|
+|8|**25.95**|<img alt="" width="50" height="50" src="https://github.com/akakiyo.png?size=100"/>|[@akakiyo](https://github.com/akakiyo)|[:link:](https://web-speed-hackathon-2022-kiyo.herokuapp.com/)|
+|9|**25.50**|<img alt="" width="50" height="50" src="https://github.com/higuchimmy.png?size=100"/>|[@higuchimmy](https://github.com/higuchimmy)|[:link:](https://higuchimmy-web-speed-hackathon.herokuapp.com/)|
+|10|**25.05**|<img alt="" width="50" height="50" src="https://github.com/takumma.png?size=100"/>|[@takumma](https://github.com/takumma)|[:link:](https://web-speedup-hackason-2022.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
