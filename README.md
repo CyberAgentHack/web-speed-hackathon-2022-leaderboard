@@ -33,7 +33,7 @@
 |7|**258.80**|<img alt="" width="50" height="50" src="https://github.com/fluixyz-unnatural.png?size=100"/>|[@fluixyz-unnatural](https://github.com/fluixyz-unnatural)|[:link:](http://2022webspeedhackathon.flui.xyz/)|
 |8|**248.30**|<img alt="" width="50" height="50" src="https://github.com/re-taro.png?size=100"/>|[@re-taro](https://github.com/re-taro)|[:link:](https://web-speed-hackathon-re-taro.herokuapp.com/)|
 |9|**238.40**|<img alt="" width="50" height="50" src="https://github.com/progriro.png?size=100"/>|[@progriro](https://github.com/progriro)|[:link:](https://wsh-2022-progriro.herokuapp.com/)|
-|10|**150.00**|<img alt="" width="50" height="50" src="https://github.com/Teasegasugoi.png?size=100"/>|[@Teasegasugoi](https://github.com/Teasegasugoi)|[:link:](https://web-speed-hackathon-2022-tease.herokuapp.com/)|
+|10|**211.65**|<img alt="" width="50" height="50" src="https://github.com/tesso57.png?size=100"/>|[@tesso57](https://github.com/tesso57)|[:link:](https://webspeedhackathon.tesso.dev/)|
 
 <!-- leaderboard:end -->
 
