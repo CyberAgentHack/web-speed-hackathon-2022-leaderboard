@@ -22,9 +22,9 @@
 
 <!-- leaderboard:start -->
 
-| Rank | Score |     | CompetitorId | URL |
-| :--: | :---: | :-: | :----------- | :-: |
-|      |       |     |              |     |
+|Rank|Score||CompetitorId|URL|
+|:--:|:--:|:--:|:--|:--:|
+|1|**19.95**|<img alt="" width="50" height="50" src="https://github.com/mehm8128.png?size=100"/>|[@mehm8128](https://github.com/mehm8128)|[:link:](https://web-speed-hackathon-2022-mehm.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
