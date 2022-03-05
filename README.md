@@ -26,7 +26,7 @@
 |:--:|:--:|:--:|:--|:--:|
 |1|**359.85**|<img alt="" width="50" height="50" src="https://github.com/trasta298.png?size=100"/>|[@trasta298](https://github.com/trasta298)|[:link:](https://wsh.trasta.dev/)|
 |2|**357.45**|<img alt="" width="50" height="50" src="https://github.com/reyu0722.png?size=100"/>|[@reyu0722](https://github.com/reyu0722)|[:link:](https://wsh2022.reyu.dev/)|
-|3|**324.60**|<img alt="" width="50" height="50" src="https://github.com/cathiecode.png?size=100"/>|[@cathiecode](https://github.com/cathiecode)|[:link:](https://wsh-2022-cathiecode.tk/)|
+|3|**341.80**|<img alt="" width="50" height="50" src="https://github.com/cathiecode.png?size=100"/>|[@cathiecode](https://github.com/cathiecode)|[:link:](https://wsh-2022-cathiecode.tk/)|
 |4|**307.55**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
 |5|**294.10**|<img alt="" width="50" height="50" src="https://github.com/yuta-ike.png?size=100"/>|[@yuta-ike](https://github.com/yuta-ike)|[:link:](https://wsh2022.herokuapp.com/)|
 |6|**274.15**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-spring.toshi00.dev/)|
