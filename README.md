@@ -25,9 +25,10 @@
 |Rank|Score||CompetitorId|URL|
 |:--:|:--:|:--:|:--|:--:|
 |1|**31.20**|<img alt="" width="50" height="50" src="https://github.com/1keiuu.png?size=100"/>|[@1keiuu](https://github.com/1keiuu)|[:link:](https://web-speed-hackathon2022.herokuapp.com/)|
-|2|**28.65**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-toshi00.herokuapp.com/)|
-|3|**25.05**|<img alt="" width="50" height="50" src="https://github.com/takumma.png?size=100"/>|[@takumma](https://github.com/takumma)|[:link:](https://web-speedup-hackason-2022.herokuapp.com/)|
-|4|**19.95**|<img alt="" width="50" height="50" src="https://github.com/mehm8128.png?size=100"/>|[@mehm8128](https://github.com/mehm8128)|[:link:](https://web-speed-hackathon-2022-mehm.herokuapp.com/)|
+|2|**30.75**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://web-hack-2022-maruyama.herokuapp.com/)|
+|3|**28.65**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-toshi00.herokuapp.com/)|
+|4|**25.05**|<img alt="" width="50" height="50" src="https://github.com/takumma.png?size=100"/>|[@takumma](https://github.com/takumma)|[:link:](https://web-speedup-hackason-2022.herokuapp.com/)|
+|5|**19.95**|<img alt="" width="50" height="50" src="https://github.com/mehm8128.png?size=100"/>|[@mehm8128](https://github.com/mehm8128)|[:link:](https://web-speed-hackathon-2022-mehm.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
