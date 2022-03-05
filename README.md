@@ -33,7 +33,7 @@
 |7|**150.00**|<img alt="" width="50" height="50" src="https://github.com/Teasegasugoi.png?size=100"/>|[@Teasegasugoi](https://github.com/Teasegasugoi)|[:link:](https://web-speed-hackathon-2022-tease.herokuapp.com/)|
 |8|**148.10**|<img alt="" width="50" height="50" src="https://github.com/Jun-T-git.png?size=100"/>|[@Jun-T-git](https://github.com/Jun-T-git)|[:link:](https://web-speed-hackathon-22.herokuapp.com/)|
 |9|**139.50**|<img alt="" width="50" height="50" src="https://github.com/LilyMameoka.png?size=100"/>|[@LilyMameoka](https://github.com/LilyMameoka)|[:link:](https://web-speed-hackathon-2022-suto.herokuapp.com/)|
-|10|**115.50**|<img alt="" width="50" height="50" src="https://github.com/yuta-ike.png?size=100"/>|[@yuta-ike](https://github.com/yuta-ike)|[:link:](https://wsh2022.herokuapp.com/)|
+|10|**128.25**|<img alt="" width="50" height="50" src="https://github.com/tesso57.png?size=100"/>|[@tesso57](https://github.com/tesso57)|[:link:](https://webspeedhackathon.tesso.dev/)|
 
 <!-- leaderboard:end -->
 
