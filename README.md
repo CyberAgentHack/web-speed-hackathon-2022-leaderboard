@@ -32,8 +32,8 @@
 |6|**25.95**|<img alt="" width="50" height="50" src="https://github.com/akakiyo.png?size=100"/>|[@akakiyo](https://github.com/akakiyo)|[:link:](https://web-speed-hackathon-2022-kiyo.herokuapp.com/)|
 |7|**25.05**|<img alt="" width="50" height="50" src="https://github.com/takumma.png?size=100"/>|[@takumma](https://github.com/takumma)|[:link:](https://web-speedup-hackason-2022.herokuapp.com/)|
 |8|**24.30**|<img alt="" width="50" height="50" src="https://github.com/Ras96.png?size=100"/>|[@Ras96](https://github.com/Ras96)|[:link:](https://ras96-webspeedhackathon2022.herokuapp.com/)|
-|9|**20.55**|<img alt="" width="50" height="50" src="https://github.com/progriro.png?size=100"/>|[@progriro](https://github.com/progriro)|[:link:](https://wsh-2022-progriro.herokuapp.com/)|
-|10|**19.95**|<img alt="" width="50" height="50" src="https://github.com/mehm8128.png?size=100"/>|[@mehm8128](https://github.com/mehm8128)|[:link:](https://web-speed-hackathon-2022-mehm.herokuapp.com/)|
+|9|**24.15**|<img alt="" width="50" height="50" src="https://github.com/STU-Idichi-Syoya.png?size=100"/>|[@STU-Idichi-Syoya](https://github.com/STU-Idichi-Syoya)|[:link:](https://cyber-agent-web-speed.herokuapp.com/)|
+|10|**20.55**|<img alt="" width="50" height="50" src="https://github.com/progriro.png?size=100"/>|[@progriro](https://github.com/progriro)|[:link:](https://wsh-2022-progriro.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
