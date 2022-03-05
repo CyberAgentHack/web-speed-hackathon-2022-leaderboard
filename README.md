@@ -24,7 +24,7 @@
 
 |Rank|Score||CompetitorId|URL|
 |:--:|:--:|:--:|:--|:--:|
-|1|**63.65**|<img alt="" width="50" height="50" src="https://github.com/yamanoi-shu.png?size=100"/>|[@yamanoi-shu](https://github.com/yamanoi-shu)|[:link:](https://speedhackathon2022-yamanoi.herokuapp.com/)|
+|1|**59.60**|<img alt="" width="50" height="50" src="https://github.com/yamanoi-shu.png?size=100"/>|[@yamanoi-shu](https://github.com/yamanoi-shu)|[:link:](https://speedhackathon2022-yamanoi.herokuapp.com/)|
 |2|**32.25**|<img alt="" width="50" height="50" src="https://github.com/season1618.png?size=100"/>|[@season1618](https://github.com/season1618)|[:link:](https://web-speed-hackathon-season.herokuapp.com/)|
 |3|**31.20**|<img alt="" width="50" height="50" src="https://github.com/1keiuu.png?size=100"/>|[@1keiuu](https://github.com/1keiuu)|[:link:](https://web-speed-hackathon2022.herokuapp.com/)|
 |4|**30.75**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://web-hack-2022-maruyama.herokuapp.com/)|
