@@ -33,7 +33,7 @@
 |7|**79.15**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
 |8|**74.55**|<img alt="" width="50" height="50" src="https://github.com/mazrean.png?size=100"/>|[@mazrean](https://github.com/mazrean)|[:link:](https://wsh2022.mazrean.com/)|
 |9|**71.95**|<img alt="" width="50" height="50" src="https://github.com/mehm8128.png?size=100"/>|[@mehm8128](https://github.com/mehm8128)|[:link:](https://web-speed-hackathon-2022-mehm.herokuapp.com/)|
-|10|**67.85**|<img alt="" width="50" height="50" src="https://github.com/takumma.png?size=100"/>|[@takumma](https://github.com/takumma)|[:link:](https://web-speedup-hackason-2022.herokuapp.com/)|
+|10|**70.20**|<img alt="" width="50" height="50" src="https://github.com/Alesion30.png?size=100"/>|[@Alesion30](https://github.com/Alesion30)|[:link:](https://wsh2022-alesion30.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
