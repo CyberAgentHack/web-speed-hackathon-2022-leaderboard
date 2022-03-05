@@ -30,10 +30,10 @@
 |4|**125.70**|<img alt="" width="50" height="50" src="https://github.com/reyu0722.png?size=100"/>|[@reyu0722](https://github.com/reyu0722)|[:link:](https://reyu-wsh2022.herokuapp.com/)|
 |5|**125.25**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
 |6|**123.40**|<img alt="" width="50" height="50" src="https://github.com/1keiuu.png?size=100"/>|[@1keiuu](https://github.com/1keiuu)|[:link:](https://web-speed-hackathon2022.herokuapp.com/)|
-|7|**112.70**|<img alt="" width="50" height="50" src="https://github.com/togami2864.png?size=100"/>|[@togami2864](https://github.com/togami2864)|[:link:](https://spped-hackathon.herokuapp.com/)|
-|8|**112.15**|<img alt="" width="50" height="50" src="https://github.com/trasta298.png?size=100"/>|[@trasta298](https://github.com/trasta298)|[:link:](https://wsh.trasta.dev/)|
-|9|**89.40**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://web-hack-2022-maruyama.herokuapp.com/)|
-|10|**83.70**|<img alt="" width="50" height="50" src="https://github.com/STU-Idichi-Syoya.png?size=100"/>|[@STU-Idichi-Syoya](https://github.com/STU-Idichi-Syoya)|[:link:](https://cyber-agent-web-speed.herokuapp.com/)|
+|7|**121.05**|<img alt="" width="50" height="50" src="https://github.com/tesso57.png?size=100"/>|[@tesso57](https://github.com/tesso57)|[:link:](https://webspeedhackathon.tesso.dev/)|
+|8|**112.70**|<img alt="" width="50" height="50" src="https://github.com/togami2864.png?size=100"/>|[@togami2864](https://github.com/togami2864)|[:link:](https://spped-hackathon.herokuapp.com/)|
+|9|**112.15**|<img alt="" width="50" height="50" src="https://github.com/trasta298.png?size=100"/>|[@trasta298](https://github.com/trasta298)|[:link:](https://wsh.trasta.dev/)|
+|10|**89.40**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://web-hack-2022-maruyama.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
