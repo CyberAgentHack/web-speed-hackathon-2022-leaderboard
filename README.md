@@ -24,8 +24,8 @@
 
 |Rank|Score||CompetitorId|URL|
 |:--:|:--:|:--:|:--|:--:|
-|1|**108.20**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-toshi00.herokuapp.com/)|
-|2|**92.80**|<img alt="" width="50" height="50" src="https://github.com/reyu0722.png?size=100"/>|[@reyu0722](https://github.com/reyu0722)|[:link:](https://reyu-wsh2022.herokuapp.com/)|
+|1|**92.80**|<img alt="" width="50" height="50" src="https://github.com/reyu0722.png?size=100"/>|[@reyu0722](https://github.com/reyu0722)|[:link:](https://reyu-wsh2022.herokuapp.com/)|
+|2|**92.45**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-toshi00.herokuapp.com/)|
 |3|**89.40**|<img alt="" width="50" height="50" src="https://github.com/yuta-ike.png?size=100"/>|[@yuta-ike](https://github.com/yuta-ike)|[:link:](https://wsh2022.herokuapp.com/)|
 |3|**89.40**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://web-hack-2022-maruyama.herokuapp.com/)|
 |5|**79.15**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
