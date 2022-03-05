@@ -33,7 +33,7 @@
 |7|**30.30**|<img alt="" width="50" height="50" src="https://github.com/reyu0722.png?size=100"/>|[@reyu0722](https://github.com/reyu0722)|[:link:](https://reyu-wsh2022.herokuapp.com/)|
 |7|**30.30**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-toshi00.herokuapp.com/)|
 |9|**29.55**|<img alt="" width="50" height="50" src="https://github.com/onikun94.png?size=100"/>|[@onikun94](https://github.com/onikun94)|[:link:](https://web-speed-hackthon-2022-onikun.herokuapp.com/)|
-|10|**29.40**|<img alt="" width="50" height="50" src="https://github.com/Kamodes.png?size=100"/>|[@Kamodes](https://github.com/Kamodes)|[:link:](https://web-speed-hack-kamo.herokuapp.com/)|
+|9|**29.55**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
