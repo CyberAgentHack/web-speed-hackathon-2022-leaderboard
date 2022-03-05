@@ -30,7 +30,7 @@
 |4|**229.05**|<img alt="" width="50" height="50" src="https://github.com/cathiecode.png?size=100"/>|[@cathiecode](https://github.com/cathiecode)|[:link:](https://wsh-2022-cathiecode.tk/)|
 |5|**149.20**|<img alt="" width="50" height="50" src="https://github.com/Jun-T-git.png?size=100"/>|[@Jun-T-git](https://github.com/Jun-T-git)|[:link:](https://web-speed-hackathon-22.herokuapp.com/)|
 |6|**139.50**|<img alt="" width="50" height="50" src="https://github.com/LilyMameoka.png?size=100"/>|[@LilyMameoka](https://github.com/LilyMameoka)|[:link:](https://web-speed-hackathon-2022-suto.herokuapp.com/)|
-|7|**130.50**|<img alt="" width="50" height="50" src="https://github.com/yuta-ike.png?size=100"/>|[@yuta-ike](https://github.com/yuta-ike)|[:link:](https://wsh2022.herokuapp.com/)|
+|7|**124.80**|<img alt="" width="50" height="50" src="https://github.com/yuta-ike.png?size=100"/>|[@yuta-ike](https://github.com/yuta-ike)|[:link:](https://wsh2022.herokuapp.com/)|
 |8|**123.40**|<img alt="" width="50" height="50" src="https://github.com/1keiuu.png?size=100"/>|[@1keiuu](https://github.com/1keiuu)|[:link:](https://web-speed-hackathon2022.herokuapp.com/)|
 |9|**121.45**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
 |10|**121.05**|<img alt="" width="50" height="50" src="https://github.com/tesso57.png?size=100"/>|[@tesso57](https://github.com/tesso57)|[:link:](https://webspeedhackathon.tesso.dev/)|
