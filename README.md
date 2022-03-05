@@ -33,7 +33,7 @@
 |7|**148.10**|<img alt="" width="50" height="50" src="https://github.com/Jun-T-git.png?size=100"/>|[@Jun-T-git](https://github.com/Jun-T-git)|[:link:](https://web-speed-hackathon-22.herokuapp.com/)|
 |8|**139.50**|<img alt="" width="50" height="50" src="https://github.com/LilyMameoka.png?size=100"/>|[@LilyMameoka](https://github.com/LilyMameoka)|[:link:](https://web-speed-hackathon-2022-suto.herokuapp.com/)|
 |9|**124.80**|<img alt="" width="50" height="50" src="https://github.com/yuta-ike.png?size=100"/>|[@yuta-ike](https://github.com/yuta-ike)|[:link:](https://wsh2022.herokuapp.com/)|
-|10|**123.40**|<img alt="" width="50" height="50" src="https://github.com/1keiuu.png?size=100"/>|[@1keiuu](https://github.com/1keiuu)|[:link:](https://web-speed-hackathon2022.herokuapp.com/)|
+|10|**113.75**|<img alt="" width="50" height="50" src="https://github.com/togami2864.png?size=100"/>|[@togami2864](https://github.com/togami2864)|[:link:](https://spped-hackathon.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
