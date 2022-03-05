@@ -32,8 +32,8 @@
 |6|**139.50**|<img alt="" width="50" height="50" src="https://github.com/LilyMameoka.png?size=100"/>|[@LilyMameoka](https://github.com/LilyMameoka)|[:link:](https://web-speed-hackathon-2022-suto.herokuapp.com/)|
 |7|**130.50**|<img alt="" width="50" height="50" src="https://github.com/yuta-ike.png?size=100"/>|[@yuta-ike](https://github.com/yuta-ike)|[:link:](https://wsh2022.herokuapp.com/)|
 |8|**123.40**|<img alt="" width="50" height="50" src="https://github.com/1keiuu.png?size=100"/>|[@1keiuu](https://github.com/1keiuu)|[:link:](https://web-speed-hackathon2022.herokuapp.com/)|
-|9|**121.05**|<img alt="" width="50" height="50" src="https://github.com/tesso57.png?size=100"/>|[@tesso57](https://github.com/tesso57)|[:link:](https://webspeedhackathon.tesso.dev/)|
-|10|**112.15**|<img alt="" width="50" height="50" src="https://github.com/trasta298.png?size=100"/>|[@trasta298](https://github.com/trasta298)|[:link:](https://wsh.trasta.dev/)|
+|9|**121.45**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
+|10|**121.05**|<img alt="" width="50" height="50" src="https://github.com/tesso57.png?size=100"/>|[@tesso57](https://github.com/tesso57)|[:link:](https://webspeedhackathon.tesso.dev/)|
 
 <!-- leaderboard:end -->
 
