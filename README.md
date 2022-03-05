@@ -24,7 +24,8 @@
 
 |Rank|Score||CompetitorId|URL|
 |:--:|:--:|:--:|:--|:--:|
-|1|**19.95**|<img alt="" width="50" height="50" src="https://github.com/mehm8128.png?size=100"/>|[@mehm8128](https://github.com/mehm8128)|[:link:](https://web-speed-hackathon-2022-mehm.herokuapp.com/)|
+|1|**25.05**|<img alt="" width="50" height="50" src="https://github.com/takumma.png?size=100"/>|[@takumma](https://github.com/takumma)|[:link:](https://web-speedup-hackason-2022.herokuapp.com/)|
+|2|**19.95**|<img alt="" width="50" height="50" src="https://github.com/mehm8128.png?size=100"/>|[@mehm8128](https://github.com/mehm8128)|[:link:](https://web-speed-hackathon-2022-mehm.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
