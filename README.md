@@ -32,8 +32,8 @@
 |6|**112.70**|<img alt="" width="50" height="50" src="https://github.com/togami2864.png?size=100"/>|[@togami2864](https://github.com/togami2864)|[:link:](https://spped-hackathon.herokuapp.com/)|
 |7|**112.15**|<img alt="" width="50" height="50" src="https://github.com/trasta298.png?size=100"/>|[@trasta298](https://github.com/trasta298)|[:link:](https://wsh.trasta.dev/)|
 |8|**89.40**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://web-hack-2022-maruyama.herokuapp.com/)|
-|9|**81.90**|<img alt="" width="50" height="50" src="https://github.com/Alesion30.png?size=100"/>|[@Alesion30](https://github.com/Alesion30)|[:link:](https://wsh2022-alesion30.herokuapp.com/)|
-|10|**80.35**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
+|9|**80.35**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
+|10|**79.35**|<img alt="" width="50" height="50" src="https://github.com/Alesion30.png?size=100"/>|[@Alesion30](https://github.com/Alesion30)|[:link:](https://wsh2022-alesion30.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
