@@ -30,10 +30,10 @@
 |4|**231.85**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-spring.toshi00.dev/)|
 |5|**229.05**|<img alt="" width="50" height="50" src="https://github.com/cathiecode.png?size=100"/>|[@cathiecode](https://github.com/cathiecode)|[:link:](https://wsh-2022-cathiecode.tk/)|
 |6|**201.30**|<img alt="" width="50" height="50" src="https://github.com/re-taro.png?size=100"/>|[@re-taro](https://github.com/re-taro)|[:link:](https://web-speed-hackathon-re-taro.herokuapp.com/)|
-|7|**148.10**|<img alt="" width="50" height="50" src="https://github.com/Jun-T-git.png?size=100"/>|[@Jun-T-git](https://github.com/Jun-T-git)|[:link:](https://web-speed-hackathon-22.herokuapp.com/)|
-|8|**139.50**|<img alt="" width="50" height="50" src="https://github.com/LilyMameoka.png?size=100"/>|[@LilyMameoka](https://github.com/LilyMameoka)|[:link:](https://web-speed-hackathon-2022-suto.herokuapp.com/)|
-|9|**124.80**|<img alt="" width="50" height="50" src="https://github.com/yuta-ike.png?size=100"/>|[@yuta-ike](https://github.com/yuta-ike)|[:link:](https://wsh2022.herokuapp.com/)|
-|10|**113.75**|<img alt="" width="50" height="50" src="https://github.com/togami2864.png?size=100"/>|[@togami2864](https://github.com/togami2864)|[:link:](https://spped-hackathon.herokuapp.com/)|
+|7|**150.00**|<img alt="" width="50" height="50" src="https://github.com/Teasegasugoi.png?size=100"/>|[@Teasegasugoi](https://github.com/Teasegasugoi)|[:link:](https://web-speed-hackathon-2022-tease.herokuapp.com/)|
+|8|**148.10**|<img alt="" width="50" height="50" src="https://github.com/Jun-T-git.png?size=100"/>|[@Jun-T-git](https://github.com/Jun-T-git)|[:link:](https://web-speed-hackathon-22.herokuapp.com/)|
+|9|**139.50**|<img alt="" width="50" height="50" src="https://github.com/LilyMameoka.png?size=100"/>|[@LilyMameoka](https://github.com/LilyMameoka)|[:link:](https://web-speed-hackathon-2022-suto.herokuapp.com/)|
+|10|**124.80**|<img alt="" width="50" height="50" src="https://github.com/yuta-ike.png?size=100"/>|[@yuta-ike](https://github.com/yuta-ike)|[:link:](https://wsh2022.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
