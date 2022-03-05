@@ -26,15 +26,16 @@
 |:--:|:--:|:--:|:--|:--:|
 |1|**75.30**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://web-hack-2022-maruyama.herokuapp.com/)|
 |2|**74.55**|<img alt="" width="50" height="50" src="https://github.com/mazrean.png?size=100"/>|[@mazrean](https://github.com/mazrean)|[:link:](https://wsh2022.mazrean.com/)|
-|3|**59.60**|<img alt="" width="50" height="50" src="https://github.com/yamanoi-shu.png?size=100"/>|[@yamanoi-shu](https://github.com/yamanoi-shu)|[:link:](https://speedhackathon2022-yamanoi.herokuapp.com/)|
-|4|**46.85**|<img alt="" width="50" height="50" src="https://github.com/cathiecode.png?size=100"/>|[@cathiecode](https://github.com/cathiecode)|[:link:](https://wsh-2022-cathiecode.herokuapp.com/)|
-|5|**45.30**|<img alt="" width="50" height="50" src="https://github.com/1keiuu.png?size=100"/>|[@1keiuu](https://github.com/1keiuu)|[:link:](https://web-speed-hackathon2022.herokuapp.com/)|
-|6|**42.30**|<img alt="" width="50" height="50" src="https://github.com/yud0uhu.png?size=100"/>|[@yud0uhu](https://github.com/yud0uhu)|[:link:](https://wsh-2022-yud0uhu.herokuapp.com/)|
-|7|**34.95**|<img alt="" width="50" height="50" src="https://github.com/takumma.png?size=100"/>|[@takumma](https://github.com/takumma)|[:link:](https://web-speedup-hackason-2022.herokuapp.com/)|
-|8|**33.75**|<img alt="" width="50" height="50" src="https://github.com/hijiki51.png?size=100"/>|[@hijiki51](https://github.com/hijiki51)|[:link:](https://webspeedhackathon2022-hijiki51.herokuapp.com/)|
-|9|**33.15**|<img alt="" width="50" height="50" src="https://github.com/Kamodes.png?size=100"/>|[@Kamodes](https://github.com/Kamodes)|[:link:](https://web-speed-hack-kamo.herokuapp.com/)|
-|9|**33.15**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-toshi00.herokuapp.com/)|
-|9|**33.15**|<img alt="" width="50" height="50" src="https://github.com/akakiyo.png?size=100"/>|[@akakiyo](https://github.com/akakiyo)|[:link:](https://web-speed-hackathon-2022-kiyo.herokuapp.com/)|
+|3|**66.15**|<img alt="" width="50" height="50" src="https://github.com/reyu0722.png?size=100"/>|[@reyu0722](https://github.com/reyu0722)|[:link:](https://reyu-wsh2022.herokuapp.com/)|
+|4|**59.60**|<img alt="" width="50" height="50" src="https://github.com/yamanoi-shu.png?size=100"/>|[@yamanoi-shu](https://github.com/yamanoi-shu)|[:link:](https://speedhackathon2022-yamanoi.herokuapp.com/)|
+|5|**46.85**|<img alt="" width="50" height="50" src="https://github.com/cathiecode.png?size=100"/>|[@cathiecode](https://github.com/cathiecode)|[:link:](https://wsh-2022-cathiecode.herokuapp.com/)|
+|6|**45.30**|<img alt="" width="50" height="50" src="https://github.com/1keiuu.png?size=100"/>|[@1keiuu](https://github.com/1keiuu)|[:link:](https://web-speed-hackathon2022.herokuapp.com/)|
+|7|**42.30**|<img alt="" width="50" height="50" src="https://github.com/yud0uhu.png?size=100"/>|[@yud0uhu](https://github.com/yud0uhu)|[:link:](https://wsh-2022-yud0uhu.herokuapp.com/)|
+|8|**34.95**|<img alt="" width="50" height="50" src="https://github.com/takumma.png?size=100"/>|[@takumma](https://github.com/takumma)|[:link:](https://web-speedup-hackason-2022.herokuapp.com/)|
+|9|**33.75**|<img alt="" width="50" height="50" src="https://github.com/hijiki51.png?size=100"/>|[@hijiki51](https://github.com/hijiki51)|[:link:](https://webspeedhackathon2022-hijiki51.herokuapp.com/)|
+|10|**33.15**|<img alt="" width="50" height="50" src="https://github.com/Kamodes.png?size=100"/>|[@Kamodes](https://github.com/Kamodes)|[:link:](https://web-speed-hack-kamo.herokuapp.com/)|
+|10|**33.15**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-toshi00.herokuapp.com/)|
+|10|**33.15**|<img alt="" width="50" height="50" src="https://github.com/akakiyo.png?size=100"/>|[@akakiyo](https://github.com/akakiyo)|[:link:](https://web-speed-hackathon-2022-kiyo.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
