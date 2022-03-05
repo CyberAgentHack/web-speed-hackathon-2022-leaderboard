@@ -1,0 +1,25 @@
+pages:
+  - name: ホーム - 未来
+    path: /2022-03-10
+  - name: ホーム - 現在
+    path: /
+  - name: ホーム - 過去
+    path: /2022-03-01
+  - name: 出走表
+    path: /races/b75757b4-415f-448a-bb7e-446f356ae26b/race-card
+  - name: オッズ - 締め切り前
+    path: /races/5fdc32ae-7021-4a04-883a-0c3f6d16c8f2/odds
+  - name: オッズ - 締め切り後
+    path: /races/722ba177-8f71-4c76-9b26-f245024c06c0/odds
+  - name: 結果
+    path: /races/b6b7f850-6bd1-4c54-8bce-2d25c1a585b7/result
+viewports:
+  - name: Pixel 5
+    width: 393
+    height: 851
+  - name: Kindle Fire HDX
+    width: 800
+    height: 1280
+  - name: Desktop
+    width: 1280
+    height: 720

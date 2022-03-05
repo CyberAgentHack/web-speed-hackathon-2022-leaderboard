@@ -1,0 +1,551 @@
+name: Scoring
+on:
+  workflow_run:
+    workflows:
+      - Request
+    types:
+      - completed
+env:
+  TZ: 'Asia/Tokyo'
+  WSH_SCORING_DEBUG: '${{ secrets.WSH_SCORING_DEBUG }}'
+  WSH_SCORING_TARGET_PATHS: '${{ secrets.WSH_SCORING_TARGET_PATHS }}'
+jobs:
+  payload:
+    runs-on: ubuntu-20.04
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    outputs:
+      competition-status: ${{ steps.status.outputs.result }}
+      result: ${{ steps.payload.outputs.result }}
+    steps:
+      - name: Download payload
+        uses: dawidd6/action-download-artifact@575b1e4167df67acf7e692af784566618b23c71e # renovate: tag=v2.17.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          workflow: .github/workflows/request.yml
+          run_id: ${{ github.event.workflow_run.id }}
+          name: payload.json
+          path: /tmp
+      - name: Read payload
+        uses: actions/github-script@9ac08808f993958e9de277fe43a64532a609130e # renovate: tag=v6.0.0
+        id: payload
+        with:
+          result-encoding: json
+          script: |
+            const payload = require('/tmp/payload.json');
+            return payload;
+      - name: Check competition status
+        uses: actions/github-script@9ac08808f993958e9de277fe43a64532a609130e # renovate: tag=v6.0.0
+        id: status
+        with:
+          result-encoding: string
+          script: |
+            const payload = require('/tmp/payload.json');
+
+            const startAt = new Date('2022-03-05T10:30:00.000+09:00');
+            const endAt = new Date('2022-03-06T17:30:00.000+09:00');
+            const requestedAt = new Date(payload.request_time);
+
+            if (requestedAt < startAt || endAt < requestedAt) {
+              return 'closed';
+            }
+            return 'opened';
+  vrt:
+    runs-on: ubuntu-20.04
+    needs:
+      - payload
+    if: needs.payload.outputs.competition-status == 'opened'
+    outputs:
+      details: ${{ steps.details.outputs.result }}
+      result: ${{ steps.result.outputs.result }}
+    concurrency: scoring-${{ fromJSON(needs.payload.outputs.result).id }}
+    steps:
+      - uses: actions/checkout@ec3a7ce113134d7a93b817d10a8272cb61118579 # renovate: tag=v2.4.0
+      - uses: actions/setup-node@1f8c6b94b26d0feae1e387ca63ccbdc44d27b561 # renovate: tag=v2.5.1
+        with:
+          node-version: '16'
+          cache: 'yarn'
+      - run: yarn install --frozen-lockfile
+      - run: yarn build
+      - run: sudo apt-get install -y fonts-noto-cjk
+      - name: Run VRT
+        id: vrt
+        run: |
+          yarn run vrt:capture --url ${TARGET_URL}
+          yarn run vrt:detect
+        env:
+          TARGET_URL: ${{ fromJSON(needs.payload.outputs.result).url }}
+      - name: Upload payload
+        uses: actions/upload-artifact@82c141cc518b40d92cc801eee768e7aafc9c2fa2 # renovate: tag=v2.3.1
+        with:
+          name: screenshots
+          path: ./scripts/vrt/tmp/*
+          retention-days: 1
+      - name: Read details
+        uses: actions/github-script@9ac08808f993958e9de277fe43a64532a609130e # renovate: tag=v6.0.0
+        id: details
+        with:
+          result-encoding: json
+          script: |
+            const payload = require('./scripts/vrt/tmp/reg.json');
+            return payload;
+      - name: Read result
+        uses: actions/github-script@9ac08808f993958e9de277fe43a64532a609130e # renovate: tag=v6.0.0
+        id: result
+        with:
+          result-encoding: string
+          script: |
+            const payload = require('./scripts/vrt/tmp/reg.json');
+            return payload.failedItems.length === 0 ? 'success' : 'failed';
+  scoring:
+    runs-on: ubuntu-20.04
+    needs:
+      - payload
+      - vrt
+    outputs:
+      result: ${{ steps.scoring.outputs.export }}
+    concurrency: scoring-${{ fromJSON(needs.payload.outputs.result).id }}
+    steps:
+      - uses: actions/checkout@ec3a7ce113134d7a93b817d10a8272cb61118579 # renovate: tag=v2.4.0
+      - uses: actions/setup-node@1f8c6b94b26d0feae1e387ca63ccbdc44d27b561 # renovate: tag=v2.5.1
+        with:
+          node-version: '16'
+          cache: 'yarn'
+      - run: yarn install --frozen-lockfile
+      - run: yarn build
+      - run: sudo apt-get install -y fonts-noto-cjk
+      - name: Scoring
+        id: scoring
+        run: |
+          yarn run scoring \
+            --id ${TARGET_ID} \
+            --url ${TARGET_URL}
+        env:
+          TARGET_ID: ${{ fromJSON(needs.payload.outputs.result).id }}
+          TARGET_URL: ${{ fromJSON(needs.payload.outputs.result).url }}
+  update:
+    runs-on: ubuntu-20.04
+    needs:
+      - payload
+      - vrt
+      - scoring
+    if: needs.vrt.outputs.result == 'success'
+    outputs:
+      result: ${{ steps.update.outputs.export }}
+    concurrency: update-leader-board
+    steps:
+      - uses: actions/checkout@ec3a7ce113134d7a93b817d10a8272cb61118579 # renovate: tag=v2.4.0
+        with:
+          ref: main
+      - uses: actions/setup-node@1f8c6b94b26d0feae1e387ca63ccbdc44d27b561 # renovate: tag=v2.5.1
+        with:
+          node-version: '16'
+          cache: 'yarn'
+      - run: yarn install --frozen-lockfile
+      - run: yarn build
+      - run: sudo apt-get install -y fonts-noto-cjk
+      - name: Update leader board
+        id: update
+        run: |
+          yarn run update \
+            --markdown ${GITHUB_WORKSPACE}/README.md \
+            --score-csv ${GITHUB_WORKSPACE}/score.csv \
+            --id ${TARGET_ID} \
+            --url ${TARGET_URL} \
+            --score ${TARGET_SCORE}
+        env:
+          TARGET_ID: ${{ fromJSON(needs.payload.outputs.result).id }}
+          TARGET_URL: ${{ fromJSON(needs.payload.outputs.result).url }}
+          TARGET_SCORE: ${{ fromJSON(needs.scoring.outputs.result).result.score }}
+      - name: Commit leader board
+        uses: stefanzweifel/git-auto-commit-action@5804e42f86b1891093b151b6c4e78e759c746c4d # renovate: tag=v4.13.1
+        with:
+          commit_user_name: 'github-actions[bot]'
+          commit_user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
+      - name: Create OGP
+        run: |
+          yarn run create-ogp \
+            --id ${TARGET_ID} \
+            --score ${TARGET_SCORE} \
+            --rank ${TARGET_RANK}
+        env:
+          TARGET_ID: ${{ fromJSON(needs.payload.outputs.result).id }}
+          TARGET_SCORE: ${{ fromJSON(needs.scoring.outputs.result).result.score }}
+          TARGET_RANK: ${{ fromJSON(steps.update.outputs.export).rank }}
+      - uses: peaceiris/actions-gh-pages@068dc23d9710f1ba62e86896f84735d869951305 # renovate: tag=v3.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./scripts/create-ogp/public
+          keep_files: true
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+  comment-payload:
+    runs-on: ubuntu-20.04
+    needs:
+      - payload
+    steps:
+      - name: Competition is Closed Comment
+        uses: peter-evans/create-or-update-comment@a35cf36e5301d70b76f316e867e7788a55a31dae # renovate: tag=v1.4.5
+        if: needs.payload.outputs.competition-status != 'opened'
+        with:
+          comment-id: ${{ fromJSON(needs.payload.outputs.result).report_comment_id }}
+          edit-mode: replace
+          body: |
+            :warning: **スコアを計測できませんでした**
+
+            コンテスト開催前、もしくは、コンテストが終了しています
+
+            ---
+
+            :information_source: `/retry` とコメントすると、もう一度計測ができます
+            :information_source: 登録内容を変更する場合は、issue を閉じて作り直してください
+      - name: Comment
+        uses: peter-evans/create-or-update-comment@a35cf36e5301d70b76f316e867e7788a55a31dae # renovate: tag=v1.4.5
+        if: needs.payload.outputs.competition-status == 'opened'
+        with:
+          comment-id: ${{ fromJSON(needs.payload.outputs.result).report_comment_id }}
+          edit-mode: replace
+          body: |
+            ## レギュレーションチェック
+
+            :hourglass_flowing_sand: **VRT を実行しています**
+
+            ---
+
+            Actions: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+  comment-failure-vrt:
+    runs-on: ubuntu-20.04
+    needs:
+      - payload
+      - vrt
+      - comment-payload
+    if: always() && needs.vrt.result == 'failure'
+    steps:
+      - name: Comment
+        uses: peter-evans/create-or-update-comment@a35cf36e5301d70b76f316e867e7788a55a31dae # renovate: tag=v1.4.5
+        with:
+          comment-id: ${{ fromJSON(needs.payload.outputs.result).report_comment_id }}
+          edit-mode: replace
+          body: |
+            ## レギュレーションチェック
+
+            :exclamation: **VRT が実行できませんでした**
+
+            次を確認してください
+
+            - URL が間違っていませんか
+            - **WIP** API `POST /api/v1/initialize` が実行できますか
+            - 計測対象のページは、誰でも閲覧できるようになっていますか
+            - エラーページ以外では、ステータスコードが 200 で返却されますか
+
+            ---
+
+            Actions: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+            :information_source: `/retry` とコメントすると、もう一度計測ができます
+            :information_source: 登録内容を変更する場合は、issue を閉じて作り直してください
+  comment-vrt:
+    runs-on: ubuntu-20.04
+    needs:
+      - payload
+      - vrt
+      - comment-payload
+    steps:
+      - name: Comment
+        uses: peter-evans/create-or-update-comment@a35cf36e5301d70b76f316e867e7788a55a31dae # renovate: tag=v1.4.5
+        with:
+          comment-id: ${{ fromJSON(needs.payload.outputs.result).report_comment_id }}
+          edit-mode: replace
+          body: |
+            ## レギュレーションチェック
+
+            ${{ (needs.vrt.outputs.result == 'success' && '**差分はありませんでした**') || '**一部のページに差分があります**' }}
+
+            <details>
+            <summary>差分が見つかったページ</summary>
+
+            - :information_source: スクリーンショットは、スコア計測後に、Actions の Artifacts からダウンロードできます
+
+            ```json
+            ${{ toJSON(fromJSON(needs.vrt.outputs.details).failedItems) }}
+            ```
+
+            </details>
+
+            ## スコア
+
+            :hourglass_flowing_sand: **Lighthouse でスコアを計測しています**
+
+            ---
+
+            Actions: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+  comment-failure-scoring:
+    runs-on: ubuntu-20.04
+    needs:
+      - payload
+      - vrt
+      - scoring
+      - comment-vrt
+    if: always() && needs.scoring.result == 'failure'
+    steps:
+      - name: Comment
+        uses: peter-evans/create-or-update-comment@a35cf36e5301d70b76f316e867e7788a55a31dae # renovate: tag=v1.4.5
+        with:
+          comment-id: ${{ fromJSON(needs.payload.outputs.result).report_comment_id }}
+          edit-mode: replace
+          body: |
+            ## レギュレーションチェック
+
+            ${{ (needs.vrt.outputs.result == 'success' && '**差分はありませんでした**') || '**一部のページに差分があります**' }}
+
+            <details>
+            <summary>差分が見つかったページ</summary>
+
+            - :information_source: スクリーンショットは、スコア計測後に、Actions の Artifacts からダウンロードできます
+
+            ```json
+            ${{ toJSON(fromJSON(needs.vrt.outputs.details).failedItems) }}
+            ```
+
+            </details>
+
+            ## スコア
+
+            :exclamation: **Lighthouse の計測ができませんでした**
+
+            次を確認してください
+
+            - URL が間違っていませんか
+            - 計測対象のページは、誰でも閲覧できるようになっていますか
+            - エラーページ以外では、ステータスコードが 200 で返却されますか
+
+            ---
+
+            Actions: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+            :information_source: `/retry` とコメントすると、もう一度計測ができます
+            :information_source: 登録内容を変更する場合は、issue を閉じて作り直してください
+  comment-scoring:
+    runs-on: ubuntu-20.04
+    needs:
+      - payload
+      - vrt
+      - scoring
+      - comment-vrt
+    steps:
+      - name: Comment
+        uses: peter-evans/create-or-update-comment@a35cf36e5301d70b76f316e867e7788a55a31dae # renovate: tag=v1.4.5
+        if: needs.vrt.outputs.result == 'success'
+        with:
+          comment-id: ${{ fromJSON(needs.payload.outputs.result).report_comment_id }}
+          edit-mode: replace
+          body: |
+            ## レギュレーションチェック
+
+            ${{ (needs.vrt.outputs.result == 'success' && '**差分はありませんでした**') || '**一部のページに差分があります**' }}
+
+            <details>
+            <summary>差分が見つかったページ</summary>
+
+            - :information_source: スクリーンショットは、スコア計測後に、Actions の Artifacts からダウンロードできます
+
+            ```json
+            ${{ toJSON(fromJSON(needs.vrt.outputs.details).failedItems) }}
+            ```
+
+            </details>
+
+            ## スコア
+
+            スコアは **${{ fromJSON(needs.scoring.outputs.result).result.score }}** です
+
+            :hourglass_flowing_sand: リーダーボードを更新中です...
+
+            <details>
+            <summary>buildInfo</summary>
+
+            ```json
+            ${{ toJSON(fromJSON(needs.scoring.outputs.result).buildInfo) }}
+            ```
+
+            </details>
+
+            ---
+
+            Actions: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+      - name: Comment
+        uses: peter-evans/create-or-update-comment@a35cf36e5301d70b76f316e867e7788a55a31dae # renovate: tag=v1.4.5
+        if: needs.vrt.outputs.result != 'success'
+        with:
+          comment-id: ${{ fromJSON(needs.payload.outputs.result).report_comment_id }}
+          edit-mode: replace
+          body: |
+            ## レギュレーションチェック
+
+            ${{ (needs.vrt.outputs.result == 'success' && '**差分はありませんでした**') || '**一部のページに差分があります**' }}
+
+            <details>
+            <summary>差分が見つかったページ</summary>
+
+            - :information_source: スクリーンショットは、スコア計測後に、Actions の Artifacts からダウンロードできます
+
+            ```json
+            ${{ toJSON(fromJSON(needs.vrt.outputs.details).failedItems) }}
+            ```
+
+            </details>
+
+            ## スコア
+
+            スコアは **${{ fromJSON(needs.scoring.outputs.result).result.score }}** です
+
+            :warning: VRT で差分があったため、リーダーボードには反映されません
+
+            <details>
+            <summary>buildInfo</summary>
+
+            ```json
+            ${{ toJSON(fromJSON(needs.scoring.outputs.result).buildInfo) }}
+            ```
+
+            </details>
+
+            ---
+
+            Actions: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+            :information_source: `/retry` とコメントすると、もう一度計測ができます
+            :information_source: 登録内容を変更する場合は、issue を閉じて作り直してください
+  comment-failure-update:
+    runs-on: ubuntu-20.04
+    needs:
+      - payload
+      - vrt
+      - scoring
+      - update
+      - comment-scoring
+    if: always() && needs.update.result == 'failure'
+    steps:
+      - name: Comment
+        uses: peter-evans/create-or-update-comment@a35cf36e5301d70b76f316e867e7788a55a31dae # renovate: tag=v1.4.5
+        with:
+          comment-id: ${{ fromJSON(needs.payload.outputs.result).report_comment_id }}
+          edit-mode: replace
+          body: |
+            ## レギュレーション
+
+            ${{ (needs.vrt.outputs.result == 'success' && '**差分はありませんでした**') || '**一部のページに差分があります**' }}
+
+            <details>
+            <summary>差分が見つかったページ</summary>
+
+            - :information_source: スクリーンショットは、スコア計測後に、Actions の Artifacts からダウンロードできます
+
+            ```json
+            ${{ toJSON(fromJSON(needs.vrt.outputs.details).failedItems) }}
+            ```
+
+            </details>
+
+            ## スコア
+
+            スコアは **${{ fromJSON(needs.scoring.outputs.result).result.score }}** です
+
+            :exclamation: **リーダーボードが更新できませんでした**
+
+            <details>
+            <summary>buildInfo</summary>
+
+            ```json
+            ${{ toJSON(fromJSON(needs.scoring.outputs.result).buildInfo) }}
+            ```
+
+            </details>
+
+            ---
+
+            Actions: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+            :information_source: `/retry` とコメントすると、もう一度計測ができます
+            :information_source: 登録内容を変更する場合は、issue を閉じて作り直してください
+  comment-update:
+    runs-on: ubuntu-20.04
+    needs:
+      - payload
+      - vrt
+      - scoring
+      - update
+      - comment-scoring
+    steps:
+      - name: Create twitter share url
+        uses: actions/github-script@9ac08808f993958e9de277fe43a64532a609130e # renovate: tag=v6.0.0
+        id: share-url
+        with:
+          result-encoding: string
+          script: |
+            const text = `
+            "Web Speed Hackathon 2022 for Students" に挑戦中です！
+            スコア ${Number(process.env.TARGET_SCORE).toFixed(2)} / 500.00 で、現在 ${process.env.TARGET_RANK} 位です
+            `.trim();
+
+            const ogpUrl = new URL(`https://cyberagenthack.github.io/web-speed-hackathon-2022-leaderboard/scores/${process.env.TARGET_ID}/`);
+            ogpUrl.searchParams.set('_', Date.now());
+
+            const shareUrl = new URL('https://twitter.com/intent/tweet');
+            shareUrl.searchParams.set('text', text);
+            shareUrl.searchParams.set('url', ogpUrl);
+            shareUrl.searchParams.set('hashtags', 'WebSpeedHackathon');
+
+            return shareUrl.href;
+        env:
+          TARGET_ID: ${{ fromJSON(needs.payload.outputs.result).id }}
+          TARGET_SCORE: ${{ fromJSON(needs.scoring.outputs.result).result.score }}
+          TARGET_RANK: ${{ fromJSON(needs.update.outputs.result).rank }}
+      - name: Comment
+        uses: peter-evans/create-or-update-comment@a35cf36e5301d70b76f316e867e7788a55a31dae # renovate: tag=v1.4.5
+        with:
+          comment-id: ${{ fromJSON(needs.payload.outputs.result).report_comment_id }}
+          edit-mode: replace
+          body: |
+            ## レギュレーションチェック
+
+            ${{ (needs.vrt.outputs.result == 'success' && '**差分はありませんでした**') || '**一部のページに差分があります**' }}
+
+            <details>
+            <summary>差分が見つかったページ</summary>
+
+            - :information_source: スクリーンショットは、スコア計測後に、Actions の Artifacts からダウンロードできます
+
+            ```json
+            ${{ toJSON(fromJSON(needs.vrt.outputs.details).failedItems) }}
+            ```
+
+            </details>
+
+            ## スコア
+
+            スコアは **${{ fromJSON(needs.scoring.outputs.result).result.score }}** です
+
+            現在、**${{ fromJSON(needs.update.outputs.result).rank }} 位**です
+
+            <details>
+            <summary>buildInfo</summary>
+
+            ```json
+            ${{ toJSON(fromJSON(needs.scoring.outputs.result).buildInfo) }}
+            ```
+
+            </details>
+
+            ## 結果をツイートする
+
+            @${{ fromJSON(needs.payload.outputs.result).id }} スコアを Twitter で共有してみませんか？
+
+            [結果をツイートする](${{ steps.share-url.outputs.result }})
+
+            ---
+
+            Actions: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+            :information_source: `/retry` とコメントすると、もう一度計測ができます
+            :information_source: 登録内容を変更する場合は、issue を閉じて作り直してください
