@@ -34,6 +34,7 @@
 |8|**29.70**|<img alt="" width="50" height="50" src="https://github.com/Kazuki0626.png?size=100"/>|[@Kazuki0626](https://github.com/Kazuki0626)|[:link:](https://kazuki-iwasaki.herokuapp.com/)|
 |9|**29.55**|<img alt="" width="50" height="50" src="https://github.com/onikun94.png?size=100"/>|[@onikun94](https://github.com/onikun94)|[:link:](https://web-speed-hackthon-2022-onikun.herokuapp.com/)|
 |9|**29.55**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
+|9|**29.55**|<img alt="" width="50" height="50" src="https://github.com/akakiyo.png?size=100"/>|[@akakiyo](https://github.com/akakiyo)|[:link:](https://web-speed-hackathon-2022-kiyo.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
