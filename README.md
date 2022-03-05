@@ -32,7 +32,7 @@
 |6|**74.55**|<img alt="" width="50" height="50" src="https://github.com/mazrean.png?size=100"/>|[@mazrean](https://github.com/mazrean)|[:link:](https://wsh2022.mazrean.com/)|
 |7|**71.95**|<img alt="" width="50" height="50" src="https://github.com/mehm8128.png?size=100"/>|[@mehm8128](https://github.com/mehm8128)|[:link:](https://web-speed-hackathon-2022-mehm.herokuapp.com/)|
 |8|**67.85**|<img alt="" width="50" height="50" src="https://github.com/takumma.png?size=100"/>|[@takumma](https://github.com/takumma)|[:link:](https://web-speedup-hackason-2022.herokuapp.com/)|
-|9|**63.55**|<img alt="" width="50" height="50" src="https://github.com/fujiyamaorange.png?size=100"/>|[@fujiyamaorange](https://github.com/fujiyamaorange)|[:link:](https://web-speed-hachathon2022.herokuapp.com/)|
+|9|**62.45**|<img alt="" width="50" height="50" src="https://github.com/fujiyamaorange.png?size=100"/>|[@fujiyamaorange](https://github.com/fujiyamaorange)|[:link:](https://web-speed-hachathon2022.herokuapp.com/)|
 |10|**57.55**|<img alt="" width="50" height="50" src="https://github.com/yamanoi-shu.png?size=100"/>|[@yamanoi-shu](https://github.com/yamanoi-shu)|[:link:](https://speedhackathon2022-yamanoi.herokuapp.com/)|
 
 <!-- leaderboard:end -->
