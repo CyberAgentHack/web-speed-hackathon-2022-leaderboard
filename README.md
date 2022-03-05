@@ -24,12 +24,12 @@
 
 |Rank|Score||CompetitorId|URL|
 |:--:|:--:|:--:|:--|:--:|
-|1|**139.50**|<img alt="" width="50" height="50" src="https://github.com/LilyMameoka.png?size=100"/>|[@LilyMameoka](https://github.com/LilyMameoka)|[:link:](https://web-speed-hackathon-2022-suto.herokuapp.com/)|
-|2|**131.50**|<img alt="" width="50" height="50" src="https://github.com/reyu0722.png?size=100"/>|[@reyu0722](https://github.com/reyu0722)|[:link:](https://reyu-wsh2022.herokuapp.com/)|
-|3|**123.40**|<img alt="" width="50" height="50" src="https://github.com/1keiuu.png?size=100"/>|[@1keiuu](https://github.com/1keiuu)|[:link:](https://web-speed-hackathon2022.herokuapp.com/)|
-|4|**112.70**|<img alt="" width="50" height="50" src="https://github.com/togami2864.png?size=100"/>|[@togami2864](https://github.com/togami2864)|[:link:](https://spped-hackathon.herokuapp.com/)|
-|5|**112.50**|<img alt="" width="50" height="50" src="https://github.com/yuta-ike.png?size=100"/>|[@yuta-ike](https://github.com/yuta-ike)|[:link:](https://wsh2022.herokuapp.com/)|
-|6|**100.75**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-toshi00.herokuapp.com/)|
+|1|**176.75**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-toshi00.herokuapp.com/)|
+|2|**139.50**|<img alt="" width="50" height="50" src="https://github.com/LilyMameoka.png?size=100"/>|[@LilyMameoka](https://github.com/LilyMameoka)|[:link:](https://web-speed-hackathon-2022-suto.herokuapp.com/)|
+|3|**131.50**|<img alt="" width="50" height="50" src="https://github.com/reyu0722.png?size=100"/>|[@reyu0722](https://github.com/reyu0722)|[:link:](https://reyu-wsh2022.herokuapp.com/)|
+|4|**123.40**|<img alt="" width="50" height="50" src="https://github.com/1keiuu.png?size=100"/>|[@1keiuu](https://github.com/1keiuu)|[:link:](https://web-speed-hackathon2022.herokuapp.com/)|
+|5|**112.70**|<img alt="" width="50" height="50" src="https://github.com/togami2864.png?size=100"/>|[@togami2864](https://github.com/togami2864)|[:link:](https://spped-hackathon.herokuapp.com/)|
+|6|**112.50**|<img alt="" width="50" height="50" src="https://github.com/yuta-ike.png?size=100"/>|[@yuta-ike](https://github.com/yuta-ike)|[:link:](https://wsh2022.herokuapp.com/)|
 |7|**97.20**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
 |8|**89.40**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://web-hack-2022-maruyama.herokuapp.com/)|
 |9|**81.90**|<img alt="" width="50" height="50" src="https://github.com/Alesion30.png?size=100"/>|[@Alesion30](https://github.com/Alesion30)|[:link:](https://wsh2022-alesion30.herokuapp.com/)|
