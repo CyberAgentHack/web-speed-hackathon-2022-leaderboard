@@ -33,7 +33,7 @@
 |7|**60.05**|<img alt="" width="50" height="50" src="https://github.com/fujiyamaorange.png?size=100"/>|[@fujiyamaorange](https://github.com/fujiyamaorange)|[:link:](https://web-speed-hachathon2022.herokuapp.com/)|
 |8|**57.55**|<img alt="" width="50" height="50" src="https://github.com/yamanoi-shu.png?size=100"/>|[@yamanoi-shu](https://github.com/yamanoi-shu)|[:link:](https://speedhackathon2022-yamanoi.herokuapp.com/)|
 |9|**56.95**|<img alt="" width="50" height="50" src="https://github.com/Teasegasugoi.png?size=100"/>|[@Teasegasugoi](https://github.com/Teasegasugoi)|[:link:](https://web-speed-hackathon-2022-tease.herokuapp.com/)|
-|10|**56.65**|<img alt="" width="50" height="50" src="https://github.com/teppei22.png?size=100"/>|[@teppei22](https://github.com/teppei22)|[:link:](https://teppeif22-wspeedhachathon-2022.herokuapp.com/)|
+|10|**56.75**|<img alt="" width="50" height="50" src="https://github.com/teppei22.png?size=100"/>|[@teppei22](https://github.com/teppei22)|[:link:](https://teppeif22-wspeedhachathon-2022.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
