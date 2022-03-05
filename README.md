@@ -29,11 +29,11 @@
 |3|**75.30**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://web-hack-2022-maruyama.herokuapp.com/)|
 |4|**74.55**|<img alt="" width="50" height="50" src="https://github.com/mazrean.png?size=100"/>|[@mazrean](https://github.com/mazrean)|[:link:](https://wsh2022.mazrean.com/)|
 |5|**71.95**|<img alt="" width="50" height="50" src="https://github.com/mehm8128.png?size=100"/>|[@mehm8128](https://github.com/mehm8128)|[:link:](https://web-speed-hackathon-2022-mehm.herokuapp.com/)|
-|6|**57.55**|<img alt="" width="50" height="50" src="https://github.com/yamanoi-shu.png?size=100"/>|[@yamanoi-shu](https://github.com/yamanoi-shu)|[:link:](https://speedhackathon2022-yamanoi.herokuapp.com/)|
-|7|**56.95**|<img alt="" width="50" height="50" src="https://github.com/Teasegasugoi.png?size=100"/>|[@Teasegasugoi](https://github.com/Teasegasugoi)|[:link:](https://web-speed-hackathon-2022-tease.herokuapp.com/)|
-|8|**56.65**|<img alt="" width="50" height="50" src="https://github.com/teppei22.png?size=100"/>|[@teppei22](https://github.com/teppei22)|[:link:](https://teppeif22-wspeedhachathon-2022.herokuapp.com/)|
-|9|**55.50**|<img alt="" width="50" height="50" src="https://github.com/fluixyz-unnatural.png?size=100"/>|[@fluixyz-unnatural](https://github.com/fluixyz-unnatural)|[:link:](https://fluixyz-web-hackathon-2022.herokuapp.com/)|
-|10|**46.85**|<img alt="" width="50" height="50" src="https://github.com/cathiecode.png?size=100"/>|[@cathiecode](https://github.com/cathiecode)|[:link:](https://wsh-2022-cathiecode.herokuapp.com/)|
+|6|**60.05**|<img alt="" width="50" height="50" src="https://github.com/fujiyamaorange.png?size=100"/>|[@fujiyamaorange](https://github.com/fujiyamaorange)|[:link:](https://web-speed-hachathon2022.herokuapp.com/)|
+|7|**57.55**|<img alt="" width="50" height="50" src="https://github.com/yamanoi-shu.png?size=100"/>|[@yamanoi-shu](https://github.com/yamanoi-shu)|[:link:](https://speedhackathon2022-yamanoi.herokuapp.com/)|
+|8|**56.95**|<img alt="" width="50" height="50" src="https://github.com/Teasegasugoi.png?size=100"/>|[@Teasegasugoi](https://github.com/Teasegasugoi)|[:link:](https://web-speed-hackathon-2022-tease.herokuapp.com/)|
+|9|**56.65**|<img alt="" width="50" height="50" src="https://github.com/teppei22.png?size=100"/>|[@teppei22](https://github.com/teppei22)|[:link:](https://teppeif22-wspeedhachathon-2022.herokuapp.com/)|
+|10|**55.50**|<img alt="" width="50" height="50" src="https://github.com/fluixyz-unnatural.png?size=100"/>|[@fluixyz-unnatural](https://github.com/fluixyz-unnatural)|[:link:](https://fluixyz-web-hackathon-2022.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
