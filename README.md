@@ -31,9 +31,9 @@
 |5|**382.70**|<img alt="" width="50" height="50" src="https://github.com/mazrean.png?size=100"/>|[@mazrean](https://github.com/mazrean)|[:link:](https://wsh2022.mazrean.com/)|
 |6|**371.00**|<img alt="" width="50" height="50" src="https://github.com/progriro.png?size=100"/>|[@progriro](https://github.com/progriro)|[:link:](https://wsh-2022.progriro.net/)|
 |7|**367.65**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
-|8|**307.10**|<img alt="" width="50" height="50" src="https://github.com/hijiki51.png?size=100"/>|[@hijiki51](https://github.com/hijiki51)|[:link:](https://web-speed-hackathon-2022.hijiki51.dev/)|
-|9|**294.25**|<img alt="" width="50" height="50" src="https://github.com/re-taro.png?size=100"/>|[@re-taro](https://github.com/re-taro)|[:link:](https://web-speed-hackathon-re-taro.herokuapp.com/)|
-|10|**287.95**|<img alt="" width="50" height="50" src="https://github.com/Alesion30.png?size=100"/>|[@Alesion30](https://github.com/Alesion30)|[:link:](https://wsh2022-alesion30.herokuapp.com/)|
+|8|**333.95**|<img alt="" width="50" height="50" src="https://github.com/sudokzt.png?size=100"/>|[@sudokzt](https://github.com/sudokzt)|[:link:](https://speedhack-front-ufwuu4dz4q-an.a.run.app/)|
+|9|**307.10**|<img alt="" width="50" height="50" src="https://github.com/hijiki51.png?size=100"/>|[@hijiki51](https://github.com/hijiki51)|[:link:](https://web-speed-hackathon-2022.hijiki51.dev/)|
+|10|**294.25**|<img alt="" width="50" height="50" src="https://github.com/re-taro.png?size=100"/>|[@re-taro](https://github.com/re-taro)|[:link:](https://web-speed-hackathon-re-taro.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
