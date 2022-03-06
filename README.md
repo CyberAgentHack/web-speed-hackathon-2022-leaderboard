@@ -27,9 +27,9 @@
 |1|**434.00**|<img alt="" width="50" height="50" src="https://github.com/reyu0722.png?size=100"/>|[@reyu0722](https://github.com/reyu0722)|[:link:](https://wsh2022.reyu.dev/)|
 |2|**408.75**|<img alt="" width="50" height="50" src="https://github.com/cathiecode.png?size=100"/>|[@cathiecode](https://github.com/cathiecode)|[:link:](https://wsh-2022-cathiecode.tk/)|
 |3|**395.00**|<img alt="" width="50" height="50" src="https://github.com/yuta-ike.png?size=100"/>|[@yuta-ike](https://github.com/yuta-ike)|[:link:](https://wsh2022.herokuapp.com/)|
-|4|**382.70**|<img alt="" width="50" height="50" src="https://github.com/mazrean.png?size=100"/>|[@mazrean](https://github.com/mazrean)|[:link:](https://wsh2022.mazrean.com/)|
-|5|**371.00**|<img alt="" width="50" height="50" src="https://github.com/progriro.png?size=100"/>|[@progriro](https://github.com/progriro)|[:link:](https://wsh-2022.progriro.net/)|
-|6|**370.35**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-spring.toshi00.dev/)|
+|4|**371.00**|<img alt="" width="50" height="50" src="https://github.com/progriro.png?size=100"/>|[@progriro](https://github.com/progriro)|[:link:](https://wsh-2022.progriro.net/)|
+|5|**370.35**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-spring.toshi00.dev/)|
+|6|**347.45**|<img alt="" width="50" height="50" src="https://github.com/mazrean.png?size=100"/>|[@mazrean](https://github.com/mazrean)|[:link:](https://wsh2022.mazrean.com/)|
 |7|**338.80**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
 |8|**310.50**|<img alt="" width="50" height="50" src="https://github.com/hijiki51.png?size=100"/>|[@hijiki51](https://github.com/hijiki51)|[:link:](https://web-speed-hackathon-2022.hijiki51.dev/)|
 |9|**294.25**|<img alt="" width="50" height="50" src="https://github.com/re-taro.png?size=100"/>|[@re-taro](https://github.com/re-taro)|[:link:](https://web-speed-hackathon-re-taro.herokuapp.com/)|
