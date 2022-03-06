@@ -32,7 +32,7 @@
 |6|**384.30**|<img alt="" width="50" height="50" src="https://github.com/yuta-ike.png?size=100"/>|[@yuta-ike](https://github.com/yuta-ike)|[:link:](https://wsh2022.herokuapp.com/)|
 |7|**382.15**|<img alt="" width="50" height="50" src="https://github.com/trasta298.png?size=100"/>|[@trasta298](https://github.com/trasta298)|[:link:](https://wshack.trasta.dev/)|
 |8|**367.65**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
-|9|**356.15**|<img alt="" width="50" height="50" src="https://github.com/mazrean.png?size=100"/>|[@mazrean](https://github.com/mazrean)|[:link:](https://wsh2022.mazrean.com/)|
+|9|**344.15**|<img alt="" width="50" height="50" src="https://github.com/mazrean.png?size=100"/>|[@mazrean](https://github.com/mazrean)|[:link:](https://wsh2022.mazrean.com/)|
 |10|**333.95**|<img alt="" width="50" height="50" src="https://github.com/sudokzt.png?size=100"/>|[@sudokzt](https://github.com/sudokzt)|[:link:](https://speedhack-front-ufwuu4dz4q-an.a.run.app/)|
 
 <!-- leaderboard:end -->
