@@ -24,9 +24,9 @@
 
 |Rank|Score||CompetitorId|URL|
 |:--:|:--:|:--:|:--|:--:|
-|1|**434.00**|<img alt="" width="50" height="50" src="https://github.com/reyu0722.png?size=100"/>|[@reyu0722](https://github.com/reyu0722)|[:link:](https://wsh2022.reyu.dev/)|
-|2|**408.75**|<img alt="" width="50" height="50" src="https://github.com/cathiecode.png?size=100"/>|[@cathiecode](https://github.com/cathiecode)|[:link:](https://wsh-2022-cathiecode.tk/)|
-|3|**395.00**|<img alt="" width="50" height="50" src="https://github.com/yuta-ike.png?size=100"/>|[@yuta-ike](https://github.com/yuta-ike)|[:link:](https://wsh2022.herokuapp.com/)|
+|1|**452.20**|<img alt="" width="50" height="50" src="https://github.com/yuta-ike.png?size=100"/>|[@yuta-ike](https://github.com/yuta-ike)|[:link:](https://wsh2022.herokuapp.com/)|
+|2|**434.00**|<img alt="" width="50" height="50" src="https://github.com/reyu0722.png?size=100"/>|[@reyu0722](https://github.com/reyu0722)|[:link:](https://wsh2022.reyu.dev/)|
+|3|**408.75**|<img alt="" width="50" height="50" src="https://github.com/cathiecode.png?size=100"/>|[@cathiecode](https://github.com/cathiecode)|[:link:](https://wsh-2022-cathiecode.tk/)|
 |4|**382.70**|<img alt="" width="50" height="50" src="https://github.com/mazrean.png?size=100"/>|[@mazrean](https://github.com/mazrean)|[:link:](https://wsh2022.mazrean.com/)|
 |5|**371.00**|<img alt="" width="50" height="50" src="https://github.com/progriro.png?size=100"/>|[@progriro](https://github.com/progriro)|[:link:](https://wsh-2022.progriro.net/)|
 |6|**367.65**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
