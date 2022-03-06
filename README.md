@@ -26,10 +26,10 @@
 |:--:|:--:|:--:|:--|:--:|
 |1|**425.60**|<img alt="" width="50" height="50" src="https://github.com/reyu0722.png?size=100"/>|[@reyu0722](https://github.com/reyu0722)|[:link:](https://wsh2022.reyu.dev/)|
 |2|**409.70**|<img alt="" width="50" height="50" src="https://github.com/fluixyz-unnatural.png?size=100"/>|[@fluixyz-unnatural](https://github.com/fluixyz-unnatural)|[:link:](http://2022webspeedhackathon.flui.xyz/)|
-|3|**399.85**|<img alt="" width="50" height="50" src="https://github.com/progriro.png?size=100"/>|[@progriro](https://github.com/progriro)|[:link:](https://wsh-2022.progriro.net/)|
-|4|**394.90**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-spring.toshi00.dev/)|
-|5|**391.35**|<img alt="" width="50" height="50" src="https://github.com/cathiecode.png?size=100"/>|[@cathiecode](https://github.com/cathiecode)|[:link:](https://wsh-2022-cathiecode.tk/)|
-|6|**384.30**|<img alt="" width="50" height="50" src="https://github.com/yuta-ike.png?size=100"/>|[@yuta-ike](https://github.com/yuta-ike)|[:link:](https://wsh2022.herokuapp.com/)|
+|3|**407.45**|<img alt="" width="50" height="50" src="https://github.com/yuta-ike.png?size=100"/>|[@yuta-ike](https://github.com/yuta-ike)|[:link:](https://wsh2022.herokuapp.com/)|
+|4|**399.85**|<img alt="" width="50" height="50" src="https://github.com/progriro.png?size=100"/>|[@progriro](https://github.com/progriro)|[:link:](https://wsh-2022.progriro.net/)|
+|5|**394.90**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-spring.toshi00.dev/)|
+|6|**391.35**|<img alt="" width="50" height="50" src="https://github.com/cathiecode.png?size=100"/>|[@cathiecode](https://github.com/cathiecode)|[:link:](https://wsh-2022-cathiecode.tk/)|
 |7|**382.20**|<img alt="" width="50" height="50" src="https://github.com/trasta298.png?size=100"/>|[@trasta298](https://github.com/trasta298)|[:link:](https://wshack.trasta.dev/)|
 |8|**367.65**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
 |9|**344.15**|<img alt="" width="50" height="50" src="https://github.com/mazrean.png?size=100"/>|[@mazrean](https://github.com/mazrean)|[:link:](https://wsh2022.mazrean.com/)|
