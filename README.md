@@ -30,7 +30,7 @@
 |4|**395.00**|<img alt="" width="50" height="50" src="https://github.com/yuta-ike.png?size=100"/>|[@yuta-ike](https://github.com/yuta-ike)|[:link:](https://wsh2022.herokuapp.com/)|
 |5|**371.00**|<img alt="" width="50" height="50" src="https://github.com/progriro.png?size=100"/>|[@progriro](https://github.com/progriro)|[:link:](https://wsh-2022.progriro.net/)|
 |6|**367.65**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
-|7|**356.65**|<img alt="" width="50" height="50" src="https://github.com/mazrean.png?size=100"/>|[@mazrean](https://github.com/mazrean)|[:link:](https://wsh2022.mazrean.com/)|
+|7|**348.70**|<img alt="" width="50" height="50" src="https://github.com/mazrean.png?size=100"/>|[@mazrean](https://github.com/mazrean)|[:link:](https://wsh2022.mazrean.com/)|
 |8|**317.95**|<img alt="" width="50" height="50" src="https://github.com/hijiki51.png?size=100"/>|[@hijiki51](https://github.com/hijiki51)|[:link:](https://web-speed-hackathon-2022.hijiki51.dev/)|
 |9|**294.25**|<img alt="" width="50" height="50" src="https://github.com/re-taro.png?size=100"/>|[@re-taro](https://github.com/re-taro)|[:link:](https://web-speed-hackathon-re-taro.herokuapp.com/)|
 |10|**258.80**|<img alt="" width="50" height="50" src="https://github.com/fluixyz-unnatural.png?size=100"/>|[@fluixyz-unnatural](https://github.com/fluixyz-unnatural)|[:link:](http://2022webspeedhackathon.flui.xyz/)|
