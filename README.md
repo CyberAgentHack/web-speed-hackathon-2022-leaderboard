@@ -25,7 +25,7 @@
 |Rank|Score||CompetitorId|URL|
 |:--:|:--:|:--:|:--|:--:|
 |1|**452.20**|<img alt="" width="50" height="50" src="https://github.com/yuta-ike.png?size=100"/>|[@yuta-ike](https://github.com/yuta-ike)|[:link:](https://wsh2022.herokuapp.com/)|
-|2|**437.85**|<img alt="" width="50" height="50" src="https://github.com/reyu0722.png?size=100"/>|[@reyu0722](https://github.com/reyu0722)|[:link:](https://wsh2022.reyu.dev/)|
+|2|**425.60**|<img alt="" width="50" height="50" src="https://github.com/reyu0722.png?size=100"/>|[@reyu0722](https://github.com/reyu0722)|[:link:](https://wsh2022.reyu.dev/)|
 |3|**419.80**|<img alt="" width="50" height="50" src="https://github.com/fluixyz-unnatural.png?size=100"/>|[@fluixyz-unnatural](https://github.com/fluixyz-unnatural)|[:link:](http://2022webspeedhackathon.flui.xyz/)|
 |4|**399.85**|<img alt="" width="50" height="50" src="https://github.com/progriro.png?size=100"/>|[@progriro](https://github.com/progriro)|[:link:](https://wsh-2022.progriro.net/)|
 |5|**394.90**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-spring.toshi00.dev/)|
