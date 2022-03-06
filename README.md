@@ -31,9 +31,9 @@
 |5|**371.00**|<img alt="" width="50" height="50" src="https://github.com/progriro.png?size=100"/>|[@progriro](https://github.com/progriro)|[:link:](https://wsh-2022.progriro.net/)|
 |6|**343.90**|<img alt="" width="50" height="50" src="https://github.com/toshi-pono.png?size=100"/>|[@toshi-pono](https://github.com/toshi-pono)|[:link:](https://wsh-2022-spring.toshi00.dev/)|
 |7|**338.80**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://cyber-ticket.herokuapp.com/)|
-|8|**338.60**|<img alt="" width="50" height="50" src="https://github.com/trasta298.png?size=100"/>|[@trasta298](https://github.com/trasta298)|[:link:](https://wsh.trasta.dev/)|
-|9|**310.50**|<img alt="" width="50" height="50" src="https://github.com/hijiki51.png?size=100"/>|[@hijiki51](https://github.com/hijiki51)|[:link:](https://web-speed-hackathon-2022.hijiki51.dev/)|
-|10|**294.25**|<img alt="" width="50" height="50" src="https://github.com/re-taro.png?size=100"/>|[@re-taro](https://github.com/re-taro)|[:link:](https://web-speed-hackathon-re-taro.herokuapp.com/)|
+|8|**310.50**|<img alt="" width="50" height="50" src="https://github.com/hijiki51.png?size=100"/>|[@hijiki51](https://github.com/hijiki51)|[:link:](https://web-speed-hackathon-2022.hijiki51.dev/)|
+|9|**294.25**|<img alt="" width="50" height="50" src="https://github.com/re-taro.png?size=100"/>|[@re-taro](https://github.com/re-taro)|[:link:](https://web-speed-hackathon-re-taro.herokuapp.com/)|
+|10|**258.80**|<img alt="" width="50" height="50" src="https://github.com/fluixyz-unnatural.png?size=100"/>|[@fluixyz-unnatural](https://github.com/fluixyz-unnatural)|[:link:](http://2022webspeedhackathon.flui.xyz/)|
 
 <!-- leaderboard:end -->
 
