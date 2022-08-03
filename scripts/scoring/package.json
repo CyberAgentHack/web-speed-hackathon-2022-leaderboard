@@ -9,10 +9,10 @@
     "start": "node dist/index.js"
   },
   "dependencies": {
+    "axios": "0.27.2",
     "chrome-launcher": "0.15.1",
     "js-yaml": "^4.1.0",
     "lighthouse": "9.6.5",
-    "node-fetch": "3.2.10",
     "option-t": "32.5.0",
     "pino": "8.3.1",
     "pino-pretty": "8.1.0",
@@ -22,7 +22,6 @@
   "devDependencies": {
     "@types/lodash.floor": "4.0.7",
     "@types/node": "18.6.3",
-    "@types/node-fetch": "2.6.2",
     "@types/yargs": "17.0.10",
     "typescript": "4.7.4"
   }
