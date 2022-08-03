@@ -1,7 +1,6 @@
 import { URL } from 'url';
 // @ts-expect-error
 import lighthouse from 'lighthouse';
-import fetch from 'node-fetch';
 import { createErr, createOk, Result } from 'option-t/cjs/PlainResult';
 import * as chromeLauncher from 'chrome-launcher';
 
@@ -63,7 +62,7 @@ async function measurePages(entrypoint: string, paths: string[]): Promise<Lighth
     logger.debug('Target URL: %s', url.href);
 
     // Check HTTP status before actually running Lighthouse
-    const res = await fetch(url, { method: 'GET' });
+    const res = await import('node-fetch').then(({ default: fetch }) => fetch(url.href, { method: 'GET' }));
 
     if (!res.ok) {
       throw new Error(`target url returns ${res.status}: ${res.statusText}`);
