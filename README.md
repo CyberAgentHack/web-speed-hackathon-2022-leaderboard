@@ -31,8 +31,9 @@
 
 <!-- leaderboard:start -->
 
-| Rank | Score |     | CompetitorId | URL |
-| :--: | :---: | :-: | :----------- | :-: |
+|Rank|Score||CompetitorId|URL|
+|:--:|:--:|:--:|:--|:--:|
+|1|**12.15**|<img alt="" width="50" height="50" src="https://github.com/CyberAgentHack.png?size=100"/>|[@CyberAgentHack](https://github.com/CyberAgentHack)|[:link:](https://web-speed-hackathon-2022.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
