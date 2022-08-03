@@ -41,8 +41,8 @@ jobs:
           script: |
             const payload = require('/tmp/payload.json');
 
-            const startAt = new Date('2022-03-05T10:30:00.000+09:00');
-            const endAt = new Date('2022-03-06T17:30:00.000+09:00');
+            const startAt = new Date('2022-08-04T18:00:00.000+09:00');
+            const endAt = new Date('2022-08-05T20:00:00.000+09:00');
             const requestedAt = new Date(payload.request_time);
 
             if (requestedAt < startAt || endAt < requestedAt) {
@@ -484,7 +484,7 @@ jobs:
           result-encoding: string
           script: |
             const text = `
-            "Web Speed Hackathon 2022 for Students" に挑戦中です！
+            "Web Speed Hackathon 2022" に挑戦中です！
             スコア ${Number(process.env.TARGET_SCORE).toFixed(2)} / 500.00 で、現在 ${process.env.TARGET_RANK} 位です
             `.trim();
 

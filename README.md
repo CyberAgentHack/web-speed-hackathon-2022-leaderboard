@@ -7,6 +7,11 @@
 
 - レポジトリ: https://github.com/CyberAgentHack/web-speed-hackathon-2022
 
+## 開催期間
+
+- for WIC (社内開催): 2022/08/04 18:00 JST - 2022/08/05 20:00 JST
+- 一般開催: 未定
+
 ## 運営からのお知らせ
 
 [./docs/ANNOUNCEMENT.md](./docs/ANNOUNCEMENT.md) をご覧ください
