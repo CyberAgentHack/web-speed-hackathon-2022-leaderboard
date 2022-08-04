@@ -34,13 +34,14 @@
 |Rank|Score||CompetitorId|URL|
 |:--:|:--:|:--:|:--|:--:|
 |1|**19.35**|<img alt="" width="50" height="50" src="https://github.com/sZma5a.png?size=100"/>|[@sZma5a](https://github.com/sZma5a)|[:link:](https://web-speed-hackthon.herokuapp.com/)|
-|2|**18.90**|<img alt="" width="50" height="50" src="https://github.com/shuta13.png?size=100"/>|[@shuta13](https://github.com/shuta13)|[:link:](https://shuta13-wsh-2022.herokuapp.com/)|
-|3|**18.45**|<img alt="" width="50" height="50" src="https://github.com/kj455.png?size=100"/>|[@kj455](https://github.com/kj455)|[:link:](https://web-speed-hackathon-2022-kj.herokuapp.com/)|
-|4|**18.30**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://speed-hack-2022.herokuapp.com/)|
-|5|**18.15**|<img alt="" width="50" height="50" src="https://github.com/cut0.png?size=100"/>|[@cut0](https://github.com/cut0)|[:link:](https://cut0-web-speed-hackathon-2022.herokuapp.com/)|
-|6|**16.95**|<img alt="" width="50" height="50" src="https://github.com/kubosho.png?size=100"/>|[@kubosho](https://github.com/kubosho)|[:link:](https://web-speed-hackathon-2022-ks.herokuapp.com/)|
-|7|**14.85**|<img alt="" width="50" height="50" src="https://github.com/progriro.png?size=100"/>|[@progriro](https://github.com/progriro)|[:link:](https://wsh2022-internal-progriro.herokuapp.com/)|
-|8|**12.15**|<img alt="" width="50" height="50" src="https://github.com/CyberAgentHack.png?size=100"/>|[@CyberAgentHack](https://github.com/CyberAgentHack)|[:link:](https://web-speed-hackathon-2022.herokuapp.com/)|
+|1|**19.35**|<img alt="" width="50" height="50" src="https://github.com/Co9xs.png?size=100"/>|[@Co9xs](https://github.com/Co9xs)|[:link:](https://web-speed-hackathon-2022-co9xs.herokuapp.com/)|
+|3|**18.90**|<img alt="" width="50" height="50" src="https://github.com/shuta13.png?size=100"/>|[@shuta13](https://github.com/shuta13)|[:link:](https://shuta13-wsh-2022.herokuapp.com/)|
+|4|**18.45**|<img alt="" width="50" height="50" src="https://github.com/kj455.png?size=100"/>|[@kj455](https://github.com/kj455)|[:link:](https://web-speed-hackathon-2022-kj.herokuapp.com/)|
+|5|**18.30**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://speed-hack-2022.herokuapp.com/)|
+|6|**18.15**|<img alt="" width="50" height="50" src="https://github.com/cut0.png?size=100"/>|[@cut0](https://github.com/cut0)|[:link:](https://cut0-web-speed-hackathon-2022.herokuapp.com/)|
+|7|**16.95**|<img alt="" width="50" height="50" src="https://github.com/kubosho.png?size=100"/>|[@kubosho](https://github.com/kubosho)|[:link:](https://web-speed-hackathon-2022-ks.herokuapp.com/)|
+|8|**14.85**|<img alt="" width="50" height="50" src="https://github.com/progriro.png?size=100"/>|[@progriro](https://github.com/progriro)|[:link:](https://wsh2022-internal-progriro.herokuapp.com/)|
+|9|**12.15**|<img alt="" width="50" height="50" src="https://github.com/CyberAgentHack.png?size=100"/>|[@CyberAgentHack](https://github.com/CyberAgentHack)|[:link:](https://web-speed-hackathon-2022.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
