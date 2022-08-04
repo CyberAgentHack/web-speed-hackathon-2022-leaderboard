@@ -33,16 +33,16 @@
 
 |Rank|Score||CompetitorId|URL|
 |:--:|:--:|:--:|:--|:--:|
-|1|**56.55**|<img alt="" width="50" height="50" src="https://github.com/kubosho.png?size=100"/>|[@kubosho](https://github.com/kubosho)|[:link:](https://web-speed-hackathon-2022-ks.herokuapp.com/)|
-|2|**54.50**|<img alt="" width="50" height="50" src="https://github.com/cut0.png?size=100"/>|[@cut0](https://github.com/cut0)|[:link:](https://cut0-web-speed-hackathon-2022.herokuapp.com/)|
-|3|**36.05**|<img alt="" width="50" height="50" src="https://github.com/kj455.png?size=100"/>|[@kj455](https://github.com/kj455)|[:link:](https://web-speed-hackathon-2022-kj.herokuapp.com/)|
-|4|**18.90**|<img alt="" width="50" height="50" src="https://github.com/mj-hd.png?size=100"/>|[@mj-hd](https://github.com/mj-hd)|[:link:](https://wsh2022-otsuka.herokuapp.com/)|
-|5|**18.45**|<img alt="" width="50" height="50" src="https://github.com/chocopun.png?size=100"/>|[@chocopun](https://github.com/chocopun)|[:link:](https://web-speed-hackathon-2022-choco.herokuapp.com/)|
-|6|**18.30**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://speed-hack-2022.herokuapp.com/)|
-|7|**16.35**|<img alt="" width="50" height="50" src="https://github.com/sZma5a.png?size=100"/>|[@sZma5a](https://github.com/sZma5a)|[:link:](https://web-speed-hackthon.herokuapp.com/)|
-|8|**16.20**|<img alt="" width="50" height="50" src="https://github.com/shuta13.png?size=100"/>|[@shuta13](https://github.com/shuta13)|[:link:](https://shuta13-wsh-2022.herokuapp.com/)|
-|9|**15.75**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://my-cyber-ticket.herokuapp.com/)|
-|10|**14.85**|<img alt="" width="50" height="50" src="https://github.com/progriro.png?size=100"/>|[@progriro](https://github.com/progriro)|[:link:](https://wsh2022-internal-progriro.herokuapp.com/)|
+|1|**117.30**|<img alt="" width="50" height="50" src="https://github.com/yanagi0602.png?size=100"/>|[@yanagi0602](https://github.com/yanagi0602)|[:link:](https://wsh2022.herokuapp.com/)|
+|2|**56.55**|<img alt="" width="50" height="50" src="https://github.com/kubosho.png?size=100"/>|[@kubosho](https://github.com/kubosho)|[:link:](https://web-speed-hackathon-2022-ks.herokuapp.com/)|
+|3|**54.50**|<img alt="" width="50" height="50" src="https://github.com/cut0.png?size=100"/>|[@cut0](https://github.com/cut0)|[:link:](https://cut0-web-speed-hackathon-2022.herokuapp.com/)|
+|4|**36.05**|<img alt="" width="50" height="50" src="https://github.com/kj455.png?size=100"/>|[@kj455](https://github.com/kj455)|[:link:](https://web-speed-hackathon-2022-kj.herokuapp.com/)|
+|5|**18.90**|<img alt="" width="50" height="50" src="https://github.com/mj-hd.png?size=100"/>|[@mj-hd](https://github.com/mj-hd)|[:link:](https://wsh2022-otsuka.herokuapp.com/)|
+|6|**18.45**|<img alt="" width="50" height="50" src="https://github.com/chocopun.png?size=100"/>|[@chocopun](https://github.com/chocopun)|[:link:](https://web-speed-hackathon-2022-choco.herokuapp.com/)|
+|7|**18.30**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://speed-hack-2022.herokuapp.com/)|
+|8|**16.35**|<img alt="" width="50" height="50" src="https://github.com/sZma5a.png?size=100"/>|[@sZma5a](https://github.com/sZma5a)|[:link:](https://web-speed-hackthon.herokuapp.com/)|
+|9|**16.20**|<img alt="" width="50" height="50" src="https://github.com/shuta13.png?size=100"/>|[@shuta13](https://github.com/shuta13)|[:link:](https://shuta13-wsh-2022.herokuapp.com/)|
+|10|**15.75**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://my-cyber-ticket.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
