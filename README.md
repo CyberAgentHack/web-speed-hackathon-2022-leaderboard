@@ -39,7 +39,7 @@
 |4|**64.35**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://speed-hack-2022.herokuapp.com/)|
 |5|**56.55**|<img alt="" width="50" height="50" src="https://github.com/kubosho.png?size=100"/>|[@kubosho](https://github.com/kubosho)|[:link:](https://web-speed-hackathon-2022-ks.herokuapp.com/)|
 |6|**44.85**|<img alt="" width="50" height="50" src="https://github.com/kj455.png?size=100"/>|[@kj455](https://github.com/kj455)|[:link:](https://web-speed-hackathon-2022-kj.herokuapp.com/)|
-|7|**23.45**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://my-cyber-ticket.herokuapp.com/)|
+|7|**34.40**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://my-cyber-ticket.herokuapp.com/)|
 |8|**19.65**|<img alt="" width="50" height="50" src="https://github.com/littletake.png?size=100"/>|[@littletake](https://github.com/littletake)|[:link:](https://web-speed-hackathon-2022-haga.herokuapp.com/)|
 |9|**18.90**|<img alt="" width="50" height="50" src="https://github.com/mj-hd.png?size=100"/>|[@mj-hd](https://github.com/mj-hd)|[:link:](https://wsh2022-otsuka.herokuapp.com/)|
 |10|**18.45**|<img alt="" width="50" height="50" src="https://github.com/chocopun.png?size=100"/>|[@chocopun](https://github.com/chocopun)|[:link:](https://web-speed-hackathon-2022-choco.herokuapp.com/)|
