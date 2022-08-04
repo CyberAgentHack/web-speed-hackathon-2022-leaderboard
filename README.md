@@ -40,9 +40,9 @@
 |5|**18.45**|<img alt="" width="50" height="50" src="https://github.com/chocopun.png?size=100"/>|[@chocopun](https://github.com/chocopun)|[:link:](https://web-speed-hackathon-2022-choco.herokuapp.com/)|
 |6|**18.30**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://speed-hack-2022.herokuapp.com/)|
 |7|**16.95**|<img alt="" width="50" height="50" src="https://github.com/kubosho.png?size=100"/>|[@kubosho](https://github.com/kubosho)|[:link:](https://web-speed-hackathon-2022-ks.herokuapp.com/)|
-|8|**14.85**|<img alt="" width="50" height="50" src="https://github.com/progriro.png?size=100"/>|[@progriro](https://github.com/progriro)|[:link:](https://wsh2022-internal-progriro.herokuapp.com/)|
-|9|**12.30**|<img alt="" width="50" height="50" src="https://github.com/shuta13.png?size=100"/>|[@shuta13](https://github.com/shuta13)|[:link:](https://shuta13-wsh-2022.herokuapp.com/)|
-|9|**12.30**|<img alt="" width="50" height="50" src="https://github.com/Co9xs.png?size=100"/>|[@Co9xs](https://github.com/Co9xs)|[:link:](https://web-speed-hackathon-2022-co9xs.herokuapp.com/)|
+|8|**16.20**|<img alt="" width="50" height="50" src="https://github.com/shuta13.png?size=100"/>|[@shuta13](https://github.com/shuta13)|[:link:](https://shuta13-wsh-2022.herokuapp.com/)|
+|9|**14.85**|<img alt="" width="50" height="50" src="https://github.com/progriro.png?size=100"/>|[@progriro](https://github.com/progriro)|[:link:](https://wsh2022-internal-progriro.herokuapp.com/)|
+|10|**12.30**|<img alt="" width="50" height="50" src="https://github.com/Co9xs.png?size=100"/>|[@Co9xs](https://github.com/Co9xs)|[:link:](https://web-speed-hackathon-2022-co9xs.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
