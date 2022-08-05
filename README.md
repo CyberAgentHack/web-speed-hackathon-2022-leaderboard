@@ -33,7 +33,7 @@
 
 |Rank|Score||CompetitorId|URL|
 |:--:|:--:|:--:|:--|:--:|
-|1|**334.45**|<img alt="" width="50" height="50" src="https://github.com/cut0.png?size=100"/>|[@cut0](https://github.com/cut0)|[:link:](https://cut0-web-speed-hackathon-2022.herokuapp.com/)|
+|1|**364.85**|<img alt="" width="50" height="50" src="https://github.com/cut0.png?size=100"/>|[@cut0](https://github.com/cut0)|[:link:](https://cut0-web-speed-hackathon-2022.herokuapp.com/)|
 |2|**300.85**|<img alt="" width="50" height="50" src="https://github.com/yanagi0602.png?size=100"/>|[@yanagi0602](https://github.com/yanagi0602)|[:link:](https://wsh2022.herokuapp.com/)|
 |3|**282.10**|<img alt="" width="50" height="50" src="https://github.com/shellingford330.png?size=100"/>|[@shellingford330](https://github.com/shellingford330)|[:link:](https://my-cyber-ticket.herokuapp.com/)|
 |4|**255.75**|<img alt="" width="50" height="50" src="https://github.com/kubosho.png?size=100"/>|[@kubosho](https://github.com/kubosho)|[:link:](https://web-speed-hackathon-2022-ks.herokuapp.com/)|
