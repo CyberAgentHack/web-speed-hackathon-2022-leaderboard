@@ -1,4 +1,4 @@
-# Web Speed Hackathon 2022
+# Web Speed Hackathon 2022 Leaderboard
 
 **"Web Speed Hackathon 2022" は、非常に重たい Web アプリをチューニングして、いかに高速にするかを競う競技です。**
 
