@@ -41,7 +41,7 @@
 |6|**216.05**|<img alt="" width="50" height="50" src="https://github.com/mj-hd.png?size=100"/>|[@mj-hd](https://github.com/mj-hd)|[:link:](https://wsh2022-otsuka.herokuapp.com/)|
 |7|**153.15**|<img alt="" width="50" height="50" src="https://github.com/shuta13.png?size=100"/>|[@shuta13](https://github.com/shuta13)|[:link:](https://shuta13-wsh-2022.herokuapp.com/)|
 |8|**137.45**|<img alt="" width="50" height="50" src="https://github.com/Co9xs.png?size=100"/>|[@Co9xs](https://github.com/Co9xs)|[:link:](https://web-speed-hackathon-2022-co9xs.herokuapp.com/)|
-|9|**97.40**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://speed-hack-2022.herokuapp.com/)|
+|9|**92.75**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://speed-hack-2022.herokuapp.com/)|
 |10|**23.55**|<img alt="" width="50" height="50" src="https://github.com/harxki.png?size=100"/>|[@harxki](https://github.com/harxki)|[:link:](https://arigatou-gozaimasu.herokuapp.com/)|
 
 <!-- leaderboard:end -->
