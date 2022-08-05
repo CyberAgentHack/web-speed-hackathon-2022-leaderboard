@@ -39,8 +39,8 @@
 |4|**258.95**|<img alt="" width="50" height="50" src="https://github.com/kubosho.png?size=100"/>|[@kubosho](https://github.com/kubosho)|[:link:](https://web-speed-hackathon-2022-ks.herokuapp.com/)|
 |5|**166.10**|<img alt="" width="50" height="50" src="https://github.com/kj455.png?size=100"/>|[@kj455](https://github.com/kj455)|[:link:](https://web-speed-hackathon-2022-kj.herokuapp.com/)|
 |6|**137.45**|<img alt="" width="50" height="50" src="https://github.com/Co9xs.png?size=100"/>|[@Co9xs](https://github.com/Co9xs)|[:link:](https://web-speed-hackathon-2022-co9xs.herokuapp.com/)|
-|7|**88.35**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://speed-hack-2022.herokuapp.com/)|
-|8|**86.65**|<img alt="" width="50" height="50" src="https://github.com/shuta13.png?size=100"/>|[@shuta13](https://github.com/shuta13)|[:link:](https://shuta13-wsh-2022.herokuapp.com/)|
+|7|**86.65**|<img alt="" width="50" height="50" src="https://github.com/shuta13.png?size=100"/>|[@shuta13](https://github.com/shuta13)|[:link:](https://shuta13-wsh-2022.herokuapp.com/)|
+|8|**72.80**|<img alt="" width="50" height="50" src="https://github.com/onyanko-pon.png?size=100"/>|[@onyanko-pon](https://github.com/onyanko-pon)|[:link:](https://speed-hack-2022.herokuapp.com/)|
 |9|**19.65**|<img alt="" width="50" height="50" src="https://github.com/littletake.png?size=100"/>|[@littletake](https://github.com/littletake)|[:link:](https://web-speed-hackathon-2022-haga.herokuapp.com/)|
 |10|**18.90**|<img alt="" width="50" height="50" src="https://github.com/mj-hd.png?size=100"/>|[@mj-hd](https://github.com/mj-hd)|[:link:](https://wsh2022-otsuka.herokuapp.com/)|
 
