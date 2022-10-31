@@ -1,18 +1,18 @@
 pages:
   - name: ホーム - 未来
-    path: /2022-08-07
+    path: /2022-11-28
   - name: ホーム - 現在
     path: /
   - name: ホーム - 過去
-    path: /2022-08-01
+    path: /2022-10-26
   - name: 出走表
-    path: /races/d0612e52-fc4e-47eb-9650-a1766e63c612/race-card
+    path: /races/95de6561-c8b8-42eb-94c7-6952b73cd52c/race-card
   - name: オッズ - 締め切り前
-    path: /races/1e967dd7-273d-4ad4-8ca2-2400c77ebd75/odds
+    path: /races/342d7010-89e1-4c3a-a531-37421180def2/odds
   - name: オッズ - 締め切り後
-    path: /races/4f6bd70a-d342-45ec-9063-65271bf92972/odds
+    path: /races/96273939-5ab0-4e40-a3fd-dcc5b513905b/odds
   - name: 結果
-    path: /races/5fe32f6e-40b8-48ff-93ad-de540da18bd9/result
+    path: /races/818a6d0e-fbe7-4f47-8284-5ee37ba2d19f/result
 viewports:
   - name: Pixel 5
     width: 393

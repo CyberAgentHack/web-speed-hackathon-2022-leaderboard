@@ -6,9 +6,9 @@ on:
     types:
       - completed
 env:
-  TZ: 'Asia/Tokyo'
-  WSH_SCORING_DEBUG: '${{ secrets.WSH_SCORING_DEBUG }}'
-  WSH_SCORING_TARGET_PATHS: '${{ secrets.WSH_SCORING_TARGET_PATHS }}'
+  TZ: "Asia/Tokyo"
+  WSH_SCORING_DEBUG: "${{ secrets.WSH_SCORING_DEBUG }}"
+  WSH_SCORING_TARGET_PATHS: "${{ secrets.WSH_SCORING_TARGET_PATHS }}"
 jobs:
   payload:
     runs-on: ubuntu-20.04
@@ -41,8 +41,8 @@ jobs:
           script: |
             const payload = require('/tmp/payload.json');
 
-            const startAt = new Date('2022-08-04T18:00:00.000+09:00');
-            const endAt = new Date('2022-08-05T20:00:00.000+09:00');
+            const startAt = new Date('2022-10-31T18:00:00.000+09:00');
+            const endAt = new Date('2022-11-28T00:00:00.000+09:00');
             const requestedAt = new Date(payload.request_time);
 
             if (requestedAt < startAt || endAt < requestedAt) {
@@ -62,8 +62,8 @@ jobs:
       - uses: actions/checkout@ec3a7ce113134d7a93b817d10a8272cb61118579 # renovate: tag=v2.4.0
       - uses: actions/setup-node@1f8c6b94b26d0feae1e387ca63ccbdc44d27b561 # renovate: tag=v2.5.1
         with:
-          node-version: '16'
-          cache: 'yarn'
+          node-version: "16"
+          cache: "yarn"
       - run: yarn install --frozen-lockfile
       - run: yarn build
       - run: sudo apt-get install -y fonts-noto-cjk
@@ -108,8 +108,8 @@ jobs:
       - uses: actions/checkout@ec3a7ce113134d7a93b817d10a8272cb61118579 # renovate: tag=v2.4.0
       - uses: actions/setup-node@1f8c6b94b26d0feae1e387ca63ccbdc44d27b561 # renovate: tag=v2.5.1
         with:
-          node-version: '16'
-          cache: 'yarn'
+          node-version: "16"
+          cache: "yarn"
       - run: yarn install --frozen-lockfile
       - run: yarn build
       - run: sudo apt-get install -y fonts-noto-cjk
@@ -138,8 +138,8 @@ jobs:
           ref: main
       - uses: actions/setup-node@1f8c6b94b26d0feae1e387ca63ccbdc44d27b561 # renovate: tag=v2.5.1
         with:
-          node-version: '16'
-          cache: 'yarn'
+          node-version: "16"
+          cache: "yarn"
       - run: yarn install --frozen-lockfile
       - run: yarn build
       - run: sudo apt-get install -y fonts-noto-cjk
@@ -159,9 +159,9 @@ jobs:
       - name: Commit leader board
         uses: stefanzweifel/git-auto-commit-action@5804e42f86b1891093b151b6c4e78e759c746c4d # renovate: tag=v4.13.1
         with:
-          commit_user_name: 'github-actions[bot]'
-          commit_user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
       - name: Create OGP
         run: |
           yarn run create-ogp \
@@ -177,8 +177,8 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./scripts/create-ogp/public
           keep_files: true
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
   comment-payload:
     runs-on: ubuntu-20.04
     needs:
