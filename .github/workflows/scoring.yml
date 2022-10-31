@@ -41,7 +41,7 @@ jobs:
           script: |
             const payload = require('/tmp/payload.json');
 
-            const startAt = new Date('2022-10-31T18:00:00.000+09:00');
+            const startAt = new Date('2022-11-01T00:00:00.000+09:00');
             const endAt = new Date('2022-11-28T00:00:00.000+09:00');
             const requestedAt = new Date(payload.request_time);
 
