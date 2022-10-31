@@ -30,9 +30,10 @@
 
 <!-- leaderboard:start -->
 
-| Rank |   Score   |                                                                                           | CompetitorId                                         |                            URL                            |
-| :--: | :-------: | :---------------------------------------------------------------------------------------: | :--------------------------------------------------- | :-------------------------------------------------------: |
-|  1   | **12.15** | <img alt="" width="50" height="50" src="https://github.com/CyberAgentHack.png?size=100"/> | [@CyberAgentHack](https://github.com/CyberAgentHack) | [:link:](https://web-speed-hackathon-2022.herokuapp.com/) |
+|Rank|Score||CompetitorId|URL|
+|:--:|:--:|:--:|:--|:--:|
+|1|**127.50**|<img alt="" width="50" height="50" src="https://github.com/dora1998.png?size=100"/>|[@dora1998](https://github.com/dora1998)|[:link:](https://web-speed-hackathon-2022.herokuapp.com/)|
+|2|**12.15**|<img alt="" width="50" height="50" src="https://github.com/CyberAgentHack.png?size=100"/>|[@CyberAgentHack](https://github.com/CyberAgentHack)|[:link:](https://web-speed-hackathon-2022.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
