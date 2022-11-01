@@ -484,7 +484,7 @@ jobs:
           result-encoding: string
           script: |
             const text = `
-            "Web Speed Hackathon 2022" に挑戦中です！
+            "Web Speed Hackathon 2022 Public" に挑戦中です！
             スコア ${Number(process.env.TARGET_SCORE).toFixed(2)} / 500.00 で、現在 ${process.env.TARGET_RANK} 位です
             `.trim();
 

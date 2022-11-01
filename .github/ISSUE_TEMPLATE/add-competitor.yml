@@ -1,5 +1,5 @@
 name: 参加登録
-description: Web Speed Hackathon 2022 の参加登録フォームです
+description: Web Speed Hackathon 2022 Public の参加登録フォームです
 title: '[参加登録]'
 labels:
   - registration
@@ -7,9 +7,14 @@ body:
   - type: markdown
     attributes:
       value: |
-        # ようこそ Web Speed Hackathon 2022 へ！
+        # ようこそ Web Speed Hackathon 2022 Public へ！
+
+        - 開催期間 | **2022/11/01 00:00 JST - 2022/11/27 23:59 JST**
 
         **参加する前に、レギュレーションを確認してください**
+
+         - [注意事項](https://github.com/CyberAgentHack/web-speed-hackathon-2022/blob/main/README.md#注意事項)
+         - [レギュレーション](https://github.com/CyberAgentHack/web-speed-hackathon-2022-leaderboard/blob/main/docs/REGULATION.md)
   - type: dropdown
     id: regulation
     attributes:
@@ -34,8 +39,26 @@ body:
   - type: markdown
     attributes:
       value: |
+        ## アンケート項目（任意）
+
+        :warning: **ここから先は任意回答です。このアンケート項目は一般に公開されます**
+  - type: input
+    id: referrer
+    attributes:
+      label: この Web Speed Hackathon 2021 mini をどこで知りましたか
+    validations:
+      required: false
+  - type: input
+    id: framework
+    attributes:
+      label: 普段利用する Web フレームワーク / ライブラリは何ですか
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
         ## 準備が整いました
 
         投稿すると、GitHub Actions によって自動計測が始まります！
 
-        - :information_source: もし、5分以上何も反応がない場合は、Slack で運営までご連絡ください
+        - :information_source: もし、10分以上何も反応がない場合は、issue を作り直してみてください

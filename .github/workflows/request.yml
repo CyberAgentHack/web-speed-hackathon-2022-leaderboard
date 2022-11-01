@@ -40,7 +40,7 @@ jobs:
           body: |
             **@${{ github.event.issue.user.login }} ようこそ Web Speed Hackathon 2022 へ！**
             - :racing_car: これから自動でスコアが計測されて、リーダーボードに反映されます
-            - :information_source: 計測中に、解決できない問題が発生した場合、Slack で運営に連絡してください
+            - :information_source: 計測中に、解決できない問題が発生した場合、 `@3846masa` / `@nodaguti` / `@dora1998` にご連絡ください
             - :information_source: 登録内容を変更する場合は、issue を閉じて作り直してください
       - name: Comment
         uses: peter-evans/create-or-update-comment@a35cf36e5301d70b76f316e867e7788a55a31dae # renovate: tag=v1.4.5
