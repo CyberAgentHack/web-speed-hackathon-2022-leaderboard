@@ -33,8 +33,8 @@
 |Rank|Score||CompetitorId|URL|
 |:--:|:--:|:--:|:--|:--:|
 |1|**12.15**|<img alt="" width="50" height="50" src="https://github.com/CyberAgentHack.png?size=100"/>|[@CyberAgentHack](https://github.com/CyberAgentHack)|[:link:](https://web-speed-hackathon-2022.herokuapp.com/)|
-|2|**11.55**|<img alt="" width="50" height="50" src="https://github.com/yusukebe.png?size=100"/>|[@yusukebe](https://github.com/yusukebe)|[:link:](https://wsh-yusukebe.herokuapp.com/)|
-|3|**10.65**|<img alt="" width="50" height="50" src="https://github.com/dora1998.png?size=100"/>|[@dora1998](https://github.com/dora1998)|[:link:](https://web-speed-hackathon-2022.herokuapp.com/)|
+|2|**10.65**|<img alt="" width="50" height="50" src="https://github.com/dora1998.png?size=100"/>|[@dora1998](https://github.com/dora1998)|[:link:](https://web-speed-hackathon-2022.herokuapp.com/)|
+|3|**8.55**|<img alt="" width="50" height="50" src="https://github.com/yusukebe.png?size=100"/>|[@yusukebe](https://github.com/yusukebe)|[:link:](https://wsh-yusukebe.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
