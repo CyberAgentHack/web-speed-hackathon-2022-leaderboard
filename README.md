@@ -40,6 +40,7 @@
 |4|**114.00**|<img alt="" width="50" height="50" src="https://github.com/tsuyoshi-nishikawa.png?size=100"/>|[@tsuyoshi-nishikawa](https://github.com/tsuyoshi-nishikawa)|[:link:](https://wsh-tsuyoshi-nishikawa.herokuapp.com/)|
 |5|**12.15**|<img alt="" width="50" height="50" src="https://github.com/CyberAgentHack.png?size=100"/>|[@CyberAgentHack](https://github.com/CyberAgentHack)|[:link:](https://web-speed-hackathon-2022.herokuapp.com/)|
 |6|**10.65**|<img alt="" width="50" height="50" src="https://github.com/dora1998.png?size=100"/>|[@dora1998](https://github.com/dora1998)|[:link:](https://web-speed-hackathon-2022.herokuapp.com/)|
+|7|**9.30**|<img alt="" width="50" height="50" src="https://github.com/ir27pg.png?size=100"/>|[@ir27pg](https://github.com/ir27pg)|[:link:](https://ir27pg-web-speed-hackathon.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
