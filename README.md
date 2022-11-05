@@ -38,10 +38,10 @@
 |2|**324.05**|<img alt="" width="50" height="50" src="https://github.com/yusukebe.png?size=100"/>|[@yusukebe](https://github.com/yusukebe)|[:link:](https://wsh-yusukebe.herokuapp.com/)|
 |3|**171.05**|<img alt="" width="50" height="50" src="https://github.com/y-moriya.png?size=100"/>|[@y-moriya](https://github.com/y-moriya)|[:link:](https://webs-hack.herokuapp.com/)|
 |4|**114.00**|<img alt="" width="50" height="50" src="https://github.com/tsuyoshi-nishikawa.png?size=100"/>|[@tsuyoshi-nishikawa](https://github.com/tsuyoshi-nishikawa)|[:link:](https://wsh-tsuyoshi-nishikawa.herokuapp.com/)|
-|5|**14.10**|<img alt="" width="50" height="50" src="https://github.com/mofumofu3n.png?size=100"/>|[@mofumofu3n](https://github.com/mofumofu3n)|[:link:](https://cyber-ticket.herokuapp.com/)|
-|6|**12.15**|<img alt="" width="50" height="50" src="https://github.com/CyberAgentHack.png?size=100"/>|[@CyberAgentHack](https://github.com/CyberAgentHack)|[:link:](https://web-speed-hackathon-2022.herokuapp.com/)|
-|7|**10.65**|<img alt="" width="50" height="50" src="https://github.com/dora1998.png?size=100"/>|[@dora1998](https://github.com/dora1998)|[:link:](https://web-speed-hackathon-2022.herokuapp.com/)|
-|7|**10.65**|<img alt="" width="50" height="50" src="https://github.com/nakamitsu-nozomi.png?size=100"/>|[@nakamitsu-nozomi](https://github.com/nakamitsu-nozomi)|[:link:](https://web-speed-hackathon-2023.herokuapp.com/)|
+|5|**22.80**|<img alt="" width="50" height="50" src="https://github.com/nakamitsu-nozomi.png?size=100"/>|[@nakamitsu-nozomi](https://github.com/nakamitsu-nozomi)|[:link:](https://web-speed-hackathon-2023.herokuapp.com/)|
+|6|**14.10**|<img alt="" width="50" height="50" src="https://github.com/mofumofu3n.png?size=100"/>|[@mofumofu3n](https://github.com/mofumofu3n)|[:link:](https://cyber-ticket.herokuapp.com/)|
+|7|**12.15**|<img alt="" width="50" height="50" src="https://github.com/CyberAgentHack.png?size=100"/>|[@CyberAgentHack](https://github.com/CyberAgentHack)|[:link:](https://web-speed-hackathon-2022.herokuapp.com/)|
+|8|**10.65**|<img alt="" width="50" height="50" src="https://github.com/dora1998.png?size=100"/>|[@dora1998](https://github.com/dora1998)|[:link:](https://web-speed-hackathon-2022.herokuapp.com/)|
 |9|**9.30**|<img alt="" width="50" height="50" src="https://github.com/ir27pg.png?size=100"/>|[@ir27pg](https://github.com/ir27pg)|[:link:](https://ir27pg-web-speed-hackathon.herokuapp.com/)|
 
 <!-- leaderboard:end -->
