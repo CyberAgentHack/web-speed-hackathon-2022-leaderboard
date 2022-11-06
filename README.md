@@ -40,7 +40,7 @@
 |4|**87.80**|<img alt="" width="50" height="50" src="https://github.com/tsuyoshi-nishikawa.png?size=100"/>|[@tsuyoshi-nishikawa](https://github.com/tsuyoshi-nishikawa)|[:link:](https://wsh-tsuyoshi-nishikawa.herokuapp.com/)|
 |5|**50.25**|<img alt="" width="50" height="50" src="https://github.com/apple-yagi.png?size=100"/>|[@apple-yagi](https://github.com/apple-yagi)|[:link:](https://apple-yagi-wsh-2022.herokuapp.com/)|
 |6|**49.95**|<img alt="" width="50" height="50" src="https://github.com/mofumofu3n.png?size=100"/>|[@mofumofu3n](https://github.com/mofumofu3n)|[:link:](https://cyber-ticket.herokuapp.com/)|
-|7|**45.90**|<img alt="" width="50" height="50" src="https://github.com/nakamitsu-nozomi.png?size=100"/>|[@nakamitsu-nozomi](https://github.com/nakamitsu-nozomi)|[:link:](https://gentle-cove-40691.herokuapp.com/)|
+|7|**37.80**|<img alt="" width="50" height="50" src="https://github.com/nakamitsu-nozomi.png?size=100"/>|[@nakamitsu-nozomi](https://github.com/nakamitsu-nozomi)|[:link:](https://gentle-cove-40691.herokuapp.com/)|
 |8|**12.45**|<img alt="" width="50" height="50" src="https://github.com/amekuhideki.png?size=100"/>|[@amekuhideki](https://github.com/amekuhideki)|[:link:](https://web-speed-hackathon2022.herokuapp.com/)|
 |9|**12.15**|<img alt="" width="50" height="50" src="https://github.com/CyberAgentHack.png?size=100"/>|[@CyberAgentHack](https://github.com/CyberAgentHack)|[:link:](https://web-speed-hackathon-2022.herokuapp.com/)|
 |10|**10.65**|<img alt="" width="50" height="50" src="https://github.com/dora1998.png?size=100"/>|[@dora1998](https://github.com/dora1998)|[:link:](https://web-speed-hackathon-2022.herokuapp.com/)|
