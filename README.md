@@ -41,9 +41,9 @@
 |5|**171.05**|<img alt="" width="50" height="50" src="https://github.com/y-moriya.png?size=100"/>|[@y-moriya](https://github.com/y-moriya)|[:link:](https://webs-hack.herokuapp.com/)|
 |6|**151.10**|<img alt="" width="50" height="50" src="https://github.com/matsuu.png?size=100"/>|[@matsuu](https://github.com/matsuu)|[:link:](https://web-speed-hackathon-2022matsuu.herokuapp.com/)|
 |7|**99.80**|<img alt="" width="50" height="50" src="https://github.com/mkizka.png?size=100"/>|[@mkizka](https://github.com/mkizka)|[:link:](https://web-speed-hackathon-2022.paas.mkizka.dev/)|
-|8|**54.15**|<img alt="" width="50" height="50" src="https://github.com/nakamitsu-nozomi.png?size=100"/>|[@nakamitsu-nozomi](https://github.com/nakamitsu-nozomi)|[:link:](https://gentle-cove-40691.herokuapp.com/)|
-|9|**49.95**|<img alt="" width="50" height="50" src="https://github.com/mofumofu3n.png?size=100"/>|[@mofumofu3n](https://github.com/mofumofu3n)|[:link:](https://cyber-ticket.herokuapp.com/)|
-|10|**19.65**|<img alt="" width="50" height="50" src="https://github.com/amekuhideki.png?size=100"/>|[@amekuhideki](https://github.com/amekuhideki)|[:link:](https://web-speed-hackathon2022.herokuapp.com/)|
+|8|**90.00**|<img alt="" width="50" height="50" src="https://github.com/amekuhideki.png?size=100"/>|[@amekuhideki](https://github.com/amekuhideki)|[:link:](https://web-speed-hackathon2022.herokuapp.com/)|
+|9|**54.15**|<img alt="" width="50" height="50" src="https://github.com/nakamitsu-nozomi.png?size=100"/>|[@nakamitsu-nozomi](https://github.com/nakamitsu-nozomi)|[:link:](https://gentle-cove-40691.herokuapp.com/)|
+|10|**49.95**|<img alt="" width="50" height="50" src="https://github.com/mofumofu3n.png?size=100"/>|[@mofumofu3n](https://github.com/mofumofu3n)|[:link:](https://cyber-ticket.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
