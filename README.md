@@ -41,8 +41,8 @@
 |5|**191.85**|<img alt="" width="50" height="50" src="https://github.com/apple-yagi.png?size=100"/>|[@apple-yagi](https://github.com/apple-yagi)|[:link:](https://apple-yagi-wsh-2022.herokuapp.com/)|
 |6|**171.05**|<img alt="" width="50" height="50" src="https://github.com/y-moriya.png?size=100"/>|[@y-moriya](https://github.com/y-moriya)|[:link:](https://webs-hack.herokuapp.com/)|
 |7|**114.30**|<img alt="" width="50" height="50" src="https://github.com/mofumofu3n.png?size=100"/>|[@mofumofu3n](https://github.com/mofumofu3n)|[:link:](https://cyber-ticket.herokuapp.com/)|
-|8|**99.80**|<img alt="" width="50" height="50" src="https://github.com/mkizka.png?size=100"/>|[@mkizka](https://github.com/mkizka)|[:link:](https://web-speed-hackathon-2022.paas.mkizka.dev/)|
-|9|**99.60**|<img alt="" width="50" height="50" src="https://github.com/amekuhideki.png?size=100"/>|[@amekuhideki](https://github.com/amekuhideki)|[:link:](https://web-speed-hackathon2022.herokuapp.com/)|
+|8|**102.60**|<img alt="" width="50" height="50" src="https://github.com/amekuhideki.png?size=100"/>|[@amekuhideki](https://github.com/amekuhideki)|[:link:](https://web-speed-hackathon2022.herokuapp.com/)|
+|9|**99.80**|<img alt="" width="50" height="50" src="https://github.com/mkizka.png?size=100"/>|[@mkizka](https://github.com/mkizka)|[:link:](https://web-speed-hackathon-2022.paas.mkizka.dev/)|
 |10|**54.15**|<img alt="" width="50" height="50" src="https://github.com/nakamitsu-nozomi.png?size=100"/>|[@nakamitsu-nozomi](https://github.com/nakamitsu-nozomi)|[:link:](https://gentle-cove-40691.herokuapp.com/)|
 
 <!-- leaderboard:end -->
