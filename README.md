@@ -38,8 +38,8 @@
 |2|**494.30**|<img alt="" width="50" height="50" src="https://github.com/cut0.png?size=100"/>|[@cut0](https://github.com/cut0)|[:link:](https://cut0.app/)|
 |3|**390.85**|<img alt="" width="50" height="50" src="https://github.com/matsuu.png?size=100"/>|[@matsuu](https://github.com/matsuu)|[:link:](https://web-speed-hackathon-2022matsuu.herokuapp.com/)|
 |4|**357.35**|<img alt="" width="50" height="50" src="https://github.com/tsuyoshi-nishikawa.png?size=100"/>|[@tsuyoshi-nishikawa](https://github.com/tsuyoshi-nishikawa)|[:link:](https://wsh-tsuyoshi-nishikawa.herokuapp.com/)|
-|5|**344.55**|<img alt="" width="50" height="50" src="https://github.com/mkizka.png?size=100"/>|[@mkizka](https://github.com/mkizka)|[:link:](https://web-speed-hackathon-2022.paas.mkizka.dev/)|
-|6|**265.25**|<img alt="" width="50" height="50" src="https://github.com/math314.png?size=100"/>|[@math314](https://github.com/math314)|[:link:](https://enigmatic-hamlet-96337.herokuapp.com/)|
+|5|**347.70**|<img alt="" width="50" height="50" src="https://github.com/math314.png?size=100"/>|[@math314](https://github.com/math314)|[:link:](https://enigmatic-hamlet-96337.herokuapp.com/)|
+|6|**344.55**|<img alt="" width="50" height="50" src="https://github.com/mkizka.png?size=100"/>|[@mkizka](https://github.com/mkizka)|[:link:](https://web-speed-hackathon-2022.paas.mkizka.dev/)|
 |7|**191.85**|<img alt="" width="50" height="50" src="https://github.com/apple-yagi.png?size=100"/>|[@apple-yagi](https://github.com/apple-yagi)|[:link:](https://apple-yagi-wsh-2022.herokuapp.com/)|
 |8|**171.05**|<img alt="" width="50" height="50" src="https://github.com/y-moriya.png?size=100"/>|[@y-moriya](https://github.com/y-moriya)|[:link:](https://webs-hack.herokuapp.com/)|
 |9|**114.30**|<img alt="" width="50" height="50" src="https://github.com/mofumofu3n.png?size=100"/>|[@mofumofu3n](https://github.com/mofumofu3n)|[:link:](https://cyber-ticket.herokuapp.com/)|
