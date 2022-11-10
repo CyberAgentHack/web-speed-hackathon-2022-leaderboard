@@ -35,7 +35,7 @@
 |Rank|Score||CompetitorId|URL|
 |:--:|:--:|:--:|:--|:--:|
 |1|**496.25**|<img alt="" width="50" height="50" src="https://github.com/yusukebe.png?size=100"/>|[@yusukebe](https://github.com/yusukebe)|[:link:](https://wsh2022.yusukebe.com/)|
-|2|**479.30**|<img alt="" width="50" height="50" src="https://github.com/cut0.png?size=100"/>|[@cut0](https://github.com/cut0)|[:link:](https://cut0.app/)|
+|2|**490.40**|<img alt="" width="50" height="50" src="https://github.com/cut0.png?size=100"/>|[@cut0](https://github.com/cut0)|[:link:](https://cut0.app/)|
 |3|**357.35**|<img alt="" width="50" height="50" src="https://github.com/tsuyoshi-nishikawa.png?size=100"/>|[@tsuyoshi-nishikawa](https://github.com/tsuyoshi-nishikawa)|[:link:](https://wsh-tsuyoshi-nishikawa.herokuapp.com/)|
 |4|**353.05**|<img alt="" width="50" height="50" src="https://github.com/matsuu.png?size=100"/>|[@matsuu](https://github.com/matsuu)|[:link:](https://web-speed-hackathon-2022matsuu.herokuapp.com/)|
 |5|**347.70**|<img alt="" width="50" height="50" src="https://github.com/math314.png?size=100"/>|[@math314](https://github.com/math314)|[:link:](https://enigmatic-hamlet-96337.herokuapp.com/)|
