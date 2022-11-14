@@ -42,7 +42,7 @@
 |6|**357.35**|<img alt="" width="50" height="50" src="https://github.com/tsuyoshi-nishikawa.png?size=100"/>|[@tsuyoshi-nishikawa](https://github.com/tsuyoshi-nishikawa)|[:link:](https://wsh-tsuyoshi-nishikawa.herokuapp.com/)|
 |7|**344.55**|<img alt="" width="50" height="50" src="https://github.com/mkizka.png?size=100"/>|[@mkizka](https://github.com/mkizka)|[:link:](https://web-speed-hackathon-2022.paas.mkizka.dev/)|
 |8|**259.55**|<img alt="" width="50" height="50" src="https://github.com/kobayang.png?size=100"/>|[@kobayang](https://github.com/kobayang)|[:link:](https://wsh-2022-kobayang.herokuapp.com/)|
-|9|**242.75**|<img alt="" width="50" height="50" src="https://github.com/ta1m1kam.png?size=100"/>|[@ta1m1kam](https://github.com/ta1m1kam)|[:link:](https://taimikam.herokuapp.com/)|
+|9|**227.60**|<img alt="" width="50" height="50" src="https://github.com/ta1m1kam.png?size=100"/>|[@ta1m1kam](https://github.com/ta1m1kam)|[:link:](https://taimikam.herokuapp.com/)|
 |10|**191.85**|<img alt="" width="50" height="50" src="https://github.com/apple-yagi.png?size=100"/>|[@apple-yagi](https://github.com/apple-yagi)|[:link:](https://apple-yagi-wsh-2022.herokuapp.com/)|
 
 <!-- leaderboard:end -->
