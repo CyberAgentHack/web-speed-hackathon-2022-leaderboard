@@ -42,8 +42,8 @@
 |6|**444.85**|<img alt="" width="50" height="50" src="https://github.com/matsuu.png?size=100"/>|[@matsuu](https://github.com/matsuu)|[:link:](https://web-speed-hackathon-2022matsuu.herokuapp.com/)|
 |7|**357.35**|<img alt="" width="50" height="50" src="https://github.com/tsuyoshi-nishikawa.png?size=100"/>|[@tsuyoshi-nishikawa](https://github.com/tsuyoshi-nishikawa)|[:link:](https://wsh-tsuyoshi-nishikawa.herokuapp.com/)|
 |8|**344.55**|<img alt="" width="50" height="50" src="https://github.com/mkizka.png?size=100"/>|[@mkizka](https://github.com/mkizka)|[:link:](https://web-speed-hackathon-2022.paas.mkizka.dev/)|
-|9|**290.00**|<img alt="" width="50" height="50" src="https://github.com/nakamitsu-nozomi.png?size=100"/>|[@nakamitsu-nozomi](https://github.com/nakamitsu-nozomi)|[:link:](https://gentle-cove-40691.herokuapp.com/)|
-|10|**259.55**|<img alt="" width="50" height="50" src="https://github.com/kobayang.png?size=100"/>|[@kobayang](https://github.com/kobayang)|[:link:](https://wsh-2022-kobayang.herokuapp.com/)|
+|9|**321.40**|<img alt="" width="50" height="50" src="https://github.com/halkt.png?size=100"/>|[@halkt](https://github.com/halkt)|[:link:](https://web-speed-hackathon-2022-halkt.herokuapp.com/)|
+|10|**290.00**|<img alt="" width="50" height="50" src="https://github.com/nakamitsu-nozomi.png?size=100"/>|[@nakamitsu-nozomi](https://github.com/nakamitsu-nozomi)|[:link:](https://gentle-cove-40691.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
