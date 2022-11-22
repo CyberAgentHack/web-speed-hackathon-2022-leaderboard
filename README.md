@@ -43,7 +43,7 @@
 |7|**448.40**|<img alt="" width="50" height="50" src="https://github.com/halkt.png?size=100"/>|[@halkt](https://github.com/halkt)|[:link:](https://web-speed-hackathon-2022-halkt.herokuapp.com/)|
 |8|**444.85**|<img alt="" width="50" height="50" src="https://github.com/matsuu.png?size=100"/>|[@matsuu](https://github.com/matsuu)|[:link:](https://web-speed-hackathon-2022matsuu.herokuapp.com/)|
 |9|**440.15**|<img alt="" width="50" height="50" src="https://github.com/Nyoho.png?size=100"/>|[@Nyoho](https://github.com/Nyoho)|[:link:](https://nyoho-web-speed-hackathon-2022.herokuapp.com/)|
-|10|**376.20**|<img alt="" width="50" height="50" src="https://github.com/kobayang.png?size=100"/>|[@kobayang](https://github.com/kobayang)|[:link:](https://web-speed-hackathon-2022-nextjs.vercel.app/)|
+|10|**411.50**|<img alt="" width="50" height="50" src="https://github.com/kobayang.png?size=100"/>|[@kobayang](https://github.com/kobayang)|[:link:](https://web-speed-hackathon-2022-nextjs.vercel.app/)|
 
 <!-- leaderboard:end -->
 
