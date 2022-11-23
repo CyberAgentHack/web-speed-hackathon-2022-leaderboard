@@ -36,13 +36,13 @@
 |:--:|:--:|:--:|:--|:--:|
 |1|**500.00**|<img alt="" width="50" height="50" src="https://github.com/yusukebe.png?size=100"/>|[@yusukebe](https://github.com/yusukebe)|[:link:](https://wsh2022.yusukebe.com/)|
 |2|**499.10**|<img alt="" width="50" height="50" src="https://github.com/cut0.png?size=100"/>|[@cut0](https://github.com/cut0)|[:link:](https://web-speed-hackathon-official.herokuapp.com/)|
-|3|**473.55**|<img alt="" width="50" height="50" src="https://github.com/tsuyoshi-nishikawa.png?size=100"/>|[@tsuyoshi-nishikawa](https://github.com/tsuyoshi-nishikawa)|[:link:](https://wsh2022.tsuyoshi-nishikawa.dev/)|
-|4|**471.55**|<img alt="" width="50" height="50" src="https://github.com/nissy-dev.png?size=100"/>|[@nissy-dev](https://github.com/nissy-dev)|[:link:](https://web-speed-hackathon-2022-nissy.pages.dev/)|
-|5|**461.80**|<img alt="" width="50" height="50" src="https://github.com/math314.png?size=100"/>|[@math314](https://github.com/math314)|[:link:](https://enigmatic-hamlet-96337.herokuapp.com/)|
-|6|**460.30**|<img alt="" width="50" height="50" src="https://github.com/halkt.png?size=100"/>|[@halkt](https://github.com/halkt)|[:link:](https://web-speed-hackathon-2022-halkt.herokuapp.com/)|
-|7|**458.40**|<img alt="" width="50" height="50" src="https://github.com/kobayang.png?size=100"/>|[@kobayang](https://github.com/kobayang)|[:link:](https://web-speed-hackathon-2022-nextjs.vercel.app/)|
-|8|**457.80**|<img alt="" width="50" height="50" src="https://github.com/ta1m1kam.png?size=100"/>|[@ta1m1kam](https://github.com/ta1m1kam)|[:link:](https://taimikam.herokuapp.com/)|
-|9|**455.30**|<img alt="" width="50" height="50" src="https://github.com/NaotoshiFujita.png?size=100"/>|[@NaotoshiFujita](https://github.com/NaotoshiFujita)|[:link:](https://wsh-2022.an.r.appspot.com/)|
+|3|**485.05**|<img alt="" width="50" height="50" src="https://github.com/NaotoshiFujita.png?size=100"/>|[@NaotoshiFujita](https://github.com/NaotoshiFujita)|[:link:](https://wsh-2022.an.r.appspot.com/)|
+|4|**473.55**|<img alt="" width="50" height="50" src="https://github.com/tsuyoshi-nishikawa.png?size=100"/>|[@tsuyoshi-nishikawa](https://github.com/tsuyoshi-nishikawa)|[:link:](https://wsh2022.tsuyoshi-nishikawa.dev/)|
+|5|**471.55**|<img alt="" width="50" height="50" src="https://github.com/nissy-dev.png?size=100"/>|[@nissy-dev](https://github.com/nissy-dev)|[:link:](https://web-speed-hackathon-2022-nissy.pages.dev/)|
+|6|**461.80**|<img alt="" width="50" height="50" src="https://github.com/math314.png?size=100"/>|[@math314](https://github.com/math314)|[:link:](https://enigmatic-hamlet-96337.herokuapp.com/)|
+|7|**460.30**|<img alt="" width="50" height="50" src="https://github.com/halkt.png?size=100"/>|[@halkt](https://github.com/halkt)|[:link:](https://web-speed-hackathon-2022-halkt.herokuapp.com/)|
+|8|**458.40**|<img alt="" width="50" height="50" src="https://github.com/kobayang.png?size=100"/>|[@kobayang](https://github.com/kobayang)|[:link:](https://web-speed-hackathon-2022-nextjs.vercel.app/)|
+|9|**457.80**|<img alt="" width="50" height="50" src="https://github.com/ta1m1kam.png?size=100"/>|[@ta1m1kam](https://github.com/ta1m1kam)|[:link:](https://taimikam.herokuapp.com/)|
 |10|**444.85**|<img alt="" width="50" height="50" src="https://github.com/matsuu.png?size=100"/>|[@matsuu](https://github.com/matsuu)|[:link:](https://web-speed-hackathon-2022matsuu.herokuapp.com/)|
 
 <!-- leaderboard:end -->
