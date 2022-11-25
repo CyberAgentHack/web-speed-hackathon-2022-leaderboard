@@ -40,10 +40,10 @@
 |4|**489.40**|<img alt="" width="50" height="50" src="https://github.com/kobayang.png?size=100"/>|[@kobayang](https://github.com/kobayang)|[:link:](https://web-speed-hackathon-2022-nextjs.vercel.app/)|
 |5|**471.65**|<img alt="" width="50" height="50" src="https://github.com/halkt.png?size=100"/>|[@halkt](https://github.com/halkt)|[:link:](https://web-speed-hackathon-2022-halkt.herokuapp.com/)|
 |6|**471.55**|<img alt="" width="50" height="50" src="https://github.com/nissy-dev.png?size=100"/>|[@nissy-dev](https://github.com/nissy-dev)|[:link:](https://web-speed-hackathon-2022-nissy.pages.dev/)|
-|7|**461.80**|<img alt="" width="50" height="50" src="https://github.com/math314.png?size=100"/>|[@math314](https://github.com/math314)|[:link:](https://enigmatic-hamlet-96337.herokuapp.com/)|
-|8|**461.15**|<img alt="" width="50" height="50" src="https://github.com/tsuyoshi-nishikawa.png?size=100"/>|[@tsuyoshi-nishikawa](https://github.com/tsuyoshi-nishikawa)|[:link:](https://wsh2022.tsuyoshi-nishikawa.dev/)|
-|9|**456.90**|<img alt="" width="50" height="50" src="https://github.com/Nyoho.png?size=100"/>|[@Nyoho](https://github.com/Nyoho)|[:link:](https://nyoho-web-speed-hackathon-2022.herokuapp.com/)|
-|10|**444.85**|<img alt="" width="50" height="50" src="https://github.com/matsuu.png?size=100"/>|[@matsuu](https://github.com/matsuu)|[:link:](https://web-speed-hackathon-2022matsuu.herokuapp.com/)|
+|7|**469.05**|<img alt="" width="50" height="50" src="https://github.com/tanakh.png?size=100"/>|[@tanakh](https://github.com/tanakh)|[:link:](http://13.208.182.112/)|
+|8|**461.80**|<img alt="" width="50" height="50" src="https://github.com/math314.png?size=100"/>|[@math314](https://github.com/math314)|[:link:](https://enigmatic-hamlet-96337.herokuapp.com/)|
+|9|**461.15**|<img alt="" width="50" height="50" src="https://github.com/tsuyoshi-nishikawa.png?size=100"/>|[@tsuyoshi-nishikawa](https://github.com/tsuyoshi-nishikawa)|[:link:](https://wsh2022.tsuyoshi-nishikawa.dev/)|
+|10|**456.90**|<img alt="" width="50" height="50" src="https://github.com/Nyoho.png?size=100"/>|[@Nyoho](https://github.com/Nyoho)|[:link:](https://nyoho-web-speed-hackathon-2022.herokuapp.com/)|
 
 <!-- leaderboard:end -->
 
