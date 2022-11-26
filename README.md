@@ -43,7 +43,7 @@
 |7|**471.80**|<img alt="" width="50" height="50" src="https://github.com/tonchan1216.png?size=100"/>|[@tonchan1216](https://github.com/tonchan1216)|[:link:](https://webspeedhack.herokuapp.com/)|
 |8|**471.65**|<img alt="" width="50" height="50" src="https://github.com/halkt.png?size=100"/>|[@halkt](https://github.com/halkt)|[:link:](https://web-speed-hackathon-2022-halkt.herokuapp.com/)|
 |9|**471.55**|<img alt="" width="50" height="50" src="https://github.com/nissy-dev.png?size=100"/>|[@nissy-dev](https://github.com/nissy-dev)|[:link:](https://web-speed-hackathon-2022-nissy.pages.dev/)|
-|10|**461.80**|<img alt="" width="50" height="50" src="https://github.com/math314.png?size=100"/>|[@math314](https://github.com/math314)|[:link:](https://enigmatic-hamlet-96337.herokuapp.com/)|
+|10|**468.40**|<img alt="" width="50" height="50" src="https://github.com/tanakh.png?size=100"/>|[@tanakh](https://github.com/tanakh)|[:link:](https://wsh-2022.tanakh.jp/)|
 
 <!-- leaderboard:end -->
 
